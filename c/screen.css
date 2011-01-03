@@ -319,7 +319,7 @@ ol li {
 
 #content {
 	float: left;
-	width: 488px;
+	width: 478px;
 	padding-top: 40px;
 }
 
@@ -337,8 +337,8 @@ ol li {
 #contactInfo {
 	position: absolute;
 	width: 132px;
-	top: 0;
-	right: 46px;
+	top: 20px;
+	right: 10px;
 }
 
 #email {
@@ -411,6 +411,17 @@ a.dblArrow:hover {
 	background-position: 0 -10px;
 }
 
+a.moreButton {
+	display: inline-block;
+	margin-left: 4px;
+	font-size: 13px;
+	line-height: 17px;
+	width: 57px;
+	height: 17px;
+	text-align: center;
+	background: url(/i/more_bg.gif) no-repeat 0 0;
+}
+
 /* @end */
 
 
@@ -423,7 +434,7 @@ a.dblArrow:hover {
 #footer {
 	margin: 55px auto 15px;
 	padding: 20px 0;
-	width: 894px;
+	width: 940px;
 }
 
 #footer a, #footer a:hover {
