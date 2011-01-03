@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+<meta charset="utf-8">
+
+
+<title>Home | Walkie Doggie</title>
+<meta name="description" content="Walkie Doggie is a dog walking and pet sitting company in Evansville, Indiana. We're comprised of dependable, trustworthy, and knowledgeable Pet Sitters and Dog Walkers who have a genuine love for pets, dedication to providing second-to-none quality pet care, and active community involvement.">
+<meta name="author" content="Walkie Doggie">
+<meta name="keywords" content="walkie doggie, walkie, doggie, dog walking, pet sitting, pet sitter, pet care, evansville, indiana, newburgh, dog walker">
+<link rel="shortcut icon" href="/favicon.ico">
+<!--  Mobile Viewport Fix j.mp/mobileviewport & davidbcalhoun.com/2010/viewport-metatag -->
+<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;">
+<link rel="stylesheet" href="/c/screen.css">
+<!-- For the less-enabled mobile browsers like Opera Mini -->
+<link rel="stylesheet" media="handheld" href="/c/handheld.css">
+
+</head>
+
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+
+<!--[if lt IE 7 ]> <body class="ie6"> <![endif]-->
+<!--[if IE 7 ]>    <body class="ie7"> <![endif]-->
+<!--[if IE 8 ]>    <body class="ie8"> <![endif]-->
+<!--[if IE 9 ]>    <body class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <body class="comp"> <!--<![endif]-->
+
+
+	<img src="/i/comps/comp.gif" width="1121" height="835" alt="Homepage comp">
+
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script>
+<script>!window.jQuery && document.write('<script src="js/jquery-1.4.2.min.js"><\/script>')</script>
+
+<script src="/js/plugins.js?v=1"></script>
+<script src="/js/scripts.js"></script>
+
+<!--[if lt IE 7 ]>
+  <script src="js/dd_belatedpng.js?v=1"></script>
+<![endif]-->
+
+</body>
+</html>
