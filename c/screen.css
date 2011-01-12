@@ -347,12 +347,12 @@ ol li {
 	text-indent: -9999em;
 	overflow: hidden;
 	background: url(/i/contact_email.gif) no-repeat 0 0;
-	width: 132px;
-	height: 20px;
+	width: 146px;
+	height: 21px;
 	margin-bottom: 4px;
 }
 
-#email:hover { background-position: -143px 0;}
+#email:hover { background-position: -146px 0;}
 
 #phone {
 	display: block;
@@ -360,8 +360,8 @@ ol li {
 	text-indent: -9999em;
 	overflow: hidden;
 	background: url(/i/contact_phone.gif) no-repeat 0 0;
-	width: 79px;
-	height: 14px;
+	width: 87px;
+	height: 17px;
 }
 
 #mainNav {
