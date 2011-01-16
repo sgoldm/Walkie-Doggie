@@ -27,7 +27,7 @@
 <div id="page">
 
 	<div id="header">
-		<img src="/i/logo.gif" width="367" height="124" alt="Walkie Doggie">
+		<img src="/images/logo.gif" width="367" height="124" alt="Walkie Doggie">
 	</div>
 	  <div id="main" class="cf">
 		<div id="yt"><object width="500" height="306"><param name="movie" value="http://www.youtube.com/v/KrCaSZ97EpU?fs=1&amp;hl=en_US&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/KrCaSZ97EpU?fs=1&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="500" height="306"></embed></object></div>

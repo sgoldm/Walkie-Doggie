@@ -26,7 +26,7 @@
 <!--[if (gt IE 9)|!(IE)]><!--> <body class="comp"> <!--<![endif]-->
 
 
-	<img src="/i/comps/comp.gif" width="1121" height="835" alt="Homepage comp">
+	<img src="/images/comps/comp.gif" width="1121" height="835" alt="Homepage comp">
 
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script>

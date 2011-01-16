@@ -1,7 +1,6 @@
 <!--#include virtual="/c/pagestart.html" -->
-<link rel="stylesheet" href="/c/home.css">
 </head>
-<body class="home">
+<body class="request">
 <!--#include virtual="/c/bodystart.html" -->	
 	
 	<div id="rail" class="video">

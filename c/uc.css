@@ -206,7 +206,7 @@ body.comp {
 }
 
 body.home {
-	background: #A3CE3D url(/i/bg.gif) repeat-x center 0;
+	background: #A3CE3D url(/images/bg.gif) repeat-x center 0;
 	text-align: left;
 	color: #333;
 }
@@ -340,7 +340,7 @@ ol li {
 	width: 405px;
 	height: 104px;
 	margin-bottom: 63px;
-	background: url(/i/uc/contact.gif) no-repeat 0 0;
+	background: url(/images/uc/contact.gif) no-repeat 0 0;
 	position: relative;
 }
 
@@ -351,7 +351,7 @@ ol li {
 	bottom: 0;
 	width: 213px;
 	height: 28px;
-	background: url(/i/uc/email.gif) no-repeat 0 0;
+	background: url(/images/uc/email.gif) no-repeat 0 0;
 }
 
 #contact a:hover {
@@ -359,7 +359,7 @@ ol li {
 }
 
 #tagline {
-	background: url(/i/uc/no_bones.gif) no-repeat 0 0;
+	background: url(/images/uc/no_bones.gif) no-repeat 0 0;
 	width: 921px;
 	height: 47px;
 	margin: 25px 0 0;

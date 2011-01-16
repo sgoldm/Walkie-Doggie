@@ -1,7 +1,8 @@
 #requestServices {
 	height: 118px;
-	background: url(/i/request_copy.gif) no-repeat 0 25px;
+	background: url(/images/request_copy.gif) no-repeat 0 25px;
 	position: relative;
+	margin-top: 0;
 }
 
 #requestServices p, #requestServices a {
@@ -13,7 +14,7 @@
 #requestServices a {
 	height: 118px;
 	width: 132px;
-	background: url(/i/picket.gif) no-repeat 0 0;
+	background: url(/images/picket.gif) no-repeat 0 0;
 	position: absolute;
 	right: 0;
 	top: 0;
@@ -36,10 +37,15 @@
 	width: 220px;
 	text-indent: -9999em;
 	overflow: hidden;
-	background: url(/i/who.gif) no-repeat 0 0;
+	background: url(/images/who.gif) no-repeat 0 0;
 	margin-bottom: 10px;
 }
 
 #who p {
 	margin: 0;
+}
+
+#who a:hover {
+	color: #dbd8d8;
+	text-decoration: none;
 }
