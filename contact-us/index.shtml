@@ -8,16 +8,15 @@
 	</div>
 	
 	<div id="content">
-		<h2>Contact Us</h2>
-		<p class="white"><b>Please use one of the following methods to contact us. We will get in touch with you as quickly as possible.</b></p>
+		<h1>Contact Us</h1>
+		<p class="white larger"><b>Please use one of the following methods to contact us. We will get in touch with you as quickly as possible.</b></p>
 		<p class="info"><span>Phone: </span>812-568-5051</p>
 		<p class="info"><span>Email: </span><a href="mailto:info@walkiedoggie.com">info@walkiedoggie.com</a></p>
 		<p class="info"><span>Address: </span><b>773 S. Lombard<br/>Evansville, IN 47714</b></p>
 		<div id="requestServices">
-			<a href="/request-services/"><b>Click here to request services!</b></a>
+			<a href="/request-services/"><b class="larger">Click here to request services!</b></a>
 			<a href="/request-services/" class="picket">Request Services</a>
 		</div>
 	</div>
-	test
 		
 <!--#include virtual="/c/pageend.html" -->

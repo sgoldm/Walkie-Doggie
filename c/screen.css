@@ -206,7 +206,7 @@ body.comp {
 }
 
 body {
-	background: #fff url(/images/hill.gif) no-repeat center 20px;
+	background: #80cd3e url(/images/hill.gif) no-repeat center 0;
 	text-align: left;
 	color: #2d2d2d;
 }
@@ -238,37 +238,39 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-	font-size: 40px;
-	color: #f08b31;
-	margin-bottom: 10px;
+	font-size: 16px;
 	font-weight: normal;
-	text-transform: lowercase;
+	line-height: 22px;
+	color: #fff;
+	margin-bottom: 5px;
 }
 
 h2 {
 	font-size: 16px;
-	font-weight: normal;
-	line-height: 22px;
-	color: #73bbb7;
-	margin-bottom: 5px;
+	font-weight: bold;
+	color: #fff;
+	margin-bottom: 10px;
 }
 
 h3 {
-	font-size: 12px;
-	font-weight: normal;
-	color: #f08b31;
-	margin-bottom: 10px;
-	border-top: solid 1px #ccc;
-	padding-top: 15px;
-	text-transform: uppercase;
+	font-size: 14px;
+	font-weight: bold;
+	color: #fff;
+	margin-bottom: 5px;
 }
 
 h4 {
-	text-transform: uppercase;
-	font-size: 13px;
+	font-size: 14px;
 	font-weight: bold;
-	color: #5f5f5f;
-	margin-top: 15px;
+	color: #fff;
+	margin-bottom: 5px;
+}
+
+h5 {
+	font-size: 14px;
+	font-weight: bold;
+	color: #fff;
+	margin-bottom: 5px;
 }
 
 table, td, tr {
@@ -295,9 +297,9 @@ ol li {
 
 #page {
 	width: 940px;
-	margin: 20px auto;
+	margin: 0 auto;
 	text-align: left;
-	padding: 0 20px;
+	padding: 20px 20px 0;
 }
 
 #header {
@@ -334,7 +336,7 @@ ol li {
 	right: 10px;
 }
 
-#email {
+#emailLink {
 	display: block;
 	float: right;
 	text-indent: -9999em;
@@ -345,7 +347,7 @@ ol li {
 	margin-bottom: 4px;
 }
 
-#email:hover { background-position: -146px 0;}
+#emailLink:hover { background-position: -146px 0;}
 
 #phone {
 	display: block;
@@ -422,11 +424,11 @@ a.moreButton {
 	background: url(/images/more_bg.gif) no-repeat 0 0;
 }
 
-#content h2 { display: block; height: 34px; text-indent: -9999em; overflow: hidden; margin-bottom: 30px;}
-.services #content h2 { background: url(/images/services-and-rates.gif) no-repeat 0 0; width: 288px;}
-.request #content h2 { background: url(/images/request-services.gif) no-repeat 0 0; width: 288px;}
-.about #content h2 { background: url(/images/about-us.gif) no-repeat 0 0; width: 288px;}
-.contact #content h2 { background: url(/images/contact-us.gif) no-repeat 0 0; width: 179px;}
+#content h1 { display: block; height: 42px; text-indent: -9999em; overflow: hidden; margin-bottom: 30px;}
+.services #content h1 { background: url(/images/services-and-rates.gif) no-repeat 0 0; width: 288px;}
+.request #content h1 { background: url(/images/request-services.gif) no-repeat 0 0; width: 282px;}
+.about #content h1 { background: url(/images/about-us.gif) no-repeat 0 0; width: 288px;}
+.contact #content h1 { background: url(/images/contact-us.gif) no-repeat 0 0; width: 179px;}
 
 #rail.video {
 	padding-top: 70px;
@@ -460,7 +462,7 @@ a.moreButton {
 
 #requestServices {
 	height: 118px;
-	padding: 42px 0 0 145px;
+	padding: 42px 0 0 120px;
 	position: relative;
 	margin-top: 25px;
 }
@@ -476,7 +478,7 @@ a.moreButton {
 	width: 132px;
 	background: url(/images/picket.gif) no-repeat 0 0;
 	position: absolute;
-	right: 0;
+	right: 20px;
 	top: 0;
 }
 
@@ -484,9 +486,33 @@ a.moreButton {
 	background-position: -132px 0;
 }
 
-p.info { margin-bottom: 5px; margin-left: 60px;}
-.info span { display: block; float: left; width: 50px; text-align: right; margin-right: 20px;}
+.larger { font-size: 14px; line-height: 20px;}
+
+p.info { margin-bottom: 5px; margin-left: 60px; font-size: 14px;}
+.info span { display: block; float: left; width: 50px; text-align: right; margin-right: 10px;}
 .info b { font-weight: normal; display: block; float: left;}
+
+.inset {margin: 24px 0 24px 50px;}
+
+label, input.text, select { display:inline-block; margin-bottom: 4px;}
+
+label { width: 162px; text-align: right; margin-right: 8px;}
+label.textarea { width: 100%; text-align: left; margin: 0;}
+input + label.textarea { margin: 10px 0 0;}
+label.radio { width: auto; text-align: left; margin: 0;}
+label.radio + label.textarea { margin-top: 0;}
+
+input.text:focus, textarea:focus { border-color: #231f20;}
+input.text { width: 192px; height: 17px; margin-right:102px; border: solid 2px #80cd3e; padding: 4px; border-radius: 6px; -moz-border-radius: 6px; -webkit-border-radius: 6px;}
+input#zip { width: 122px; margin-right:174px;}
+select { width: 130px; margin-right:172px; padding: 2px;}
+
+textarea { width: 362px; border: solid 2px #80cd3e; padding: 4px; border-radius: 6px; -moz-border-radius: 6px; -webkit-border-radius: 6px; margin-bottom: 10px;}
+
+input.text:focus, textarea:focus { border-color: #444;}
+
+#submit { display: block; text-indent: -9999em; overflow: hidden; height: 54px; width: 153px; background: url(/images/submit.gif) no-repeat 0 0; border: none; margin: 20px 0 0 104px;}
+#submit:hover { background-position: 0 -54px;}
 
 /* @end */
 
