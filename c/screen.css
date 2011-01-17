@@ -514,6 +514,10 @@ input.text:focus, textarea:focus { border-color: #444;}
 #submit { display: block; text-indent: -9999em; overflow: hidden; height: 54px; width: 153px; background: url(/images/submit.gif) no-repeat 0 0; border: none; margin: 20px 0 0 104px;}
 #submit:hover { background-position: 0 -54px;}
 
+.services h3 {color: #2d2d2d;}
+.services p {color:#fff;}
+.services p + h2 {margin-top:25px;}
+
 /* @end */
 
 
