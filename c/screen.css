@@ -367,7 +367,7 @@ ol li {
 
 #mainNav li {
 	display: inline-block;
-	margin-left: 29px;
+	margin-left: 20px;
 }
 
 #mainNav a {
@@ -375,23 +375,23 @@ ol li {
 	text-indent: -9999em;
 	overflow: hidden;
 	background: url(/images/main_nav.gif) no-repeat 0 0;
-	height: 40px;
+	height: 43px;
 }
 
 #services a { width: 120px;}
 #request a { width: 120px; background-position: -147px 0;}
-#about a { width: 42px; background-position: -295px 0;}
-#contact a { width: 76px; background-position: -365px 0;}
+#why a { width: 72px; background-position: -295px 0;}
+#contact a { width: 76px; background-position: -386px 0;}
 
-#services a:hover { background-position: 0 -40px;}
-#request a:hover { background-position: -147px -40px;}
-#about a:hover { background-position: -295px -40px;}
-#contact a:hover { background-position: -365px -40px;}
+#services a:hover { background-position: 0 -43px;}
+#request a:hover { background-position: -147px -43px;}
+#why a:hover { background-position: -295px -43px;}
+#contact a:hover { background-position: -386px -43px;}
 
-.services #services a { background-position: 0 -80px;}
-.request #request a { background-position: -147px -80px;}
-.about #about a { background-position: -295px -80px;}
-.contact #contact a { background-position: -365px -80px;}
+.services #services a { background-position: 0 -86px;}
+.request #request a { background-position: -147px -86px;}
+.why #why a { background-position: -295px -86px;}
+.contact #contact a { background-position: -386px -86px;}
 
 /* @end */
 
@@ -517,6 +517,10 @@ input.text:focus, textarea:focus { border-color: #444;}
 .services h3 {color: #2d2d2d;}
 .services p {color:#fff;}
 .services p + h2 {margin-top:25px;}
+.services h2 {height: 41px; width: 105px; background-position:0 0;}
+.services h2#ourservices {background-image:url(/images/services-subhead.gif);}
+.services h2#neverextra {background-image:url(/images/neverextra-subhead.gif);}
+.services h2#bytheway {background-image:url(/images/bytheway-subhead.gif); width:127px; height:44px;}
 
 /* @end */
 

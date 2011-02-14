@@ -9,7 +9,7 @@
 	
 	<div id="content">
 			<h1>Services and Rates</h1>
-			<h2>Our Services</h2>
+			<h2 id="ourservices" class="ir">Our Services</h2>
 			
 			<h3>Free Initial Visit: FREE</h3>
 			<p>We want to make sure you and your pet(s) love us! We also want to meet and learn about your pet(s), obtain a clear understanding of your requests, review our safety standards and service agreement at no cost to you.</p>
@@ -27,7 +27,7 @@
 			<p>We will taxi your pet(s) to the location of your choice. One additional pet is no additional charge and each one-way trip is up to 15 miles from your location.</p>
 
 
-			<h2>Never Extra!</h2>
+			<h2 id="neverextra" class="ir">Never Extra!</h2>
 			<h3>Basic Home Care Services: FREE</h3>
 			<p>Each time we visit your pet(s), we will provide basic home care services as requested, including:  plant watering, mail/newspaper brought in, turning lights on/off, light rotation and opening/closing your window coverings.</p>
 
@@ -41,7 +41,7 @@
 			<p>As part of our daily and/or overnight visits, we will scoop your pet(s) waste for NO additional fee.</p>
 
 
-			<h2>Oh, By The Way...</h2>
+			<h2 id="bytheway" class="ir">Oh, By The Way...</h2>
 			<h3>Mileage and Time Surcharges</h3>
 			<p>We can provide the aforementioned services to our customers who live close to our location.  We can make arrangements for those living further out, however additional mileage and/or time surcharges may apply.  Call or email to determine applicability.</p>
 

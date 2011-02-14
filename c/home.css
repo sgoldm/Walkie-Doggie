@@ -49,3 +49,24 @@
 	color: #dbd8d8;
 	text-decoration: none;
 }
+
+#psi-badge {
+	width: 154px;
+	height: 144px;
+	background-image: url(/images/psi-badge.gif);
+	background-position: 0 0;
+	margin: 0 auto;
+}
+
+#whypetsitting {
+	width: 316px;
+	height: 91px;
+	background-image: url(/images/whypetsitting-btn.gif);
+	background-position: 0 0;
+	display: inline-block;
+	margin: 0 auto;
+}
+
+
+
+
