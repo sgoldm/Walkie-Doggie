@@ -217,8 +217,9 @@ a {
 }
 
 a:hover {
-	text-decoration: underline;
+	text-decoration: none;
 	cursor: pointer;
+	color:#dddddd;
 }
 
 p, ul, table, ol {
@@ -398,6 +399,7 @@ ol li {
 /* @group Content */
 
 .white { color:#fff;}
+.small {font-size:.9em;}
 
 a.dblArrow {
 	display: inline-block;
@@ -427,8 +429,9 @@ a.moreButton {
 #content h1 { display: block; height: 42px; text-indent: -9999em; overflow: hidden; margin-bottom: 30px;}
 .services #content h1 { background: url(/images/services-and-rates.gif) no-repeat 0 0; width: 288px;}
 .request #content h1 { background: url(/images/request-services.gif) no-repeat 0 0; width: 282px;}
-.about #content h1 { background: url(/images/about-us.gif) no-repeat 0 0; width: 288px;}
+.why #content h1 { background: url(/images/why-wd.gif) no-repeat 0 0; width: 308px; height:47px;}
 .contact #content h1 { background: url(/images/contact-us.gif) no-repeat 0 0; width: 179px;}
+.whypetsitting #content h1 { background: url(/images/why-pet-sitting.gif) no-repeat 0 0; width: 483px; height:45px;}
 
 #rail.video {
 	padding-top: 70px;
@@ -521,6 +524,32 @@ input.text:focus, textarea:focus { border-color: #444;}
 .services h2#ourservices {background-image:url(/images/services-subhead.gif);}
 .services h2#neverextra {background-image:url(/images/neverextra-subhead.gif);}
 .services h2#bytheway {background-image:url(/images/bytheway-subhead.gif); width:127px; height:44px;}
+
+.toTop {display:inline-block; margin-top:5px;}
+
+#psi-badge {
+	width: 154px;
+	height: 144px;
+	background-image: url(/images/psi-badge.gif);
+	background-position: 0 0;
+	margin: 0 auto;
+}
+
+#whypetsitting {
+	width: 316px;
+	height: 91px;
+	background-image: url(/images/whypetsitting-btn.gif);
+	background-position: 0 0;
+	margin: 0 auto 20px;
+}
+
+#youtube {margin-bottom: 60px;}
+
+ul.bullets {
+	list-style-type: disc;
+	padding-left: 20px;
+	margin: 20px 0 20px 20px;
+}
 
 /* @end */
 
