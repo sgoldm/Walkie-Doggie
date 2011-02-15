@@ -3,8 +3,8 @@
 <body class="contact">
 <!--#include virtual="/c/bodystart.html" -->	
 	
-	<div id="rail" class="photo piper">
-		<div class="caption"><span>Piper comes to our home when her owners leave town!</span></div>
+	<div id="rail" class="photo">
+		<img src="/images/photos/piper.jpg" alt="Piper comes to our home when her owners leave town!" width="385" height="333">
 	</div>
 	
 	<div id="content">

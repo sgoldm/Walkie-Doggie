@@ -5,6 +5,20 @@
 	
 	<div id="rail" class="video">
 		<div id="youtube"><object width="500" height="306"><param name="movie" value="http://www.youtube.com/v/KrCaSZ97EpU?fs=1&amp;hl=en_US&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/KrCaSZ97EpU?fs=1&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="275" height="175"></embed></object></div>
+		<div id="clients">
+			<div id="clients-top"></div>
+			<div id="clients-content">
+				<h3 class="ir">What our clients are saying</h3>
+				<p>We think it is very important that you know what are other clients say about us and our services. We can provide you with several references that would love to give you some additional assurance about your important decision.</p>
+				
+
+				<h4>Check out what our customers have to say!</h4>
+				
+				<div class="client-quote">&quot;Walkie Doggie made my dog feel right at home! I plan on using them every time my family goes out of town!&quot;</div>
+				
+			</div>
+			<div id="clients-bot"></div>
+		</div>
 		<a href="/why-walkie-doggie/why-dog-walking/" class="ir" id="whypetsitting">Why Pet Sitting and Dog Walking? Click here to find out!</a>
 		<a href="#" class="ir" id="psi-badge">Pet Sitters International</a>
 	</div>
@@ -24,13 +38,16 @@
 		
 		<h3 id="wehavepets">We have pets too!</h3>
 		<p>You should know that we have our own pets and understand how important they are to our lives and how important it is they are cared for in the proper manner.
-		<br/><a href="#header" class="toTop">[back to top]</a><br/><br/></p>
+		<img class="smallPhoto left" src="/images/photos/sophie-maggie.jpg" alt="Sophie &amp; Maggie" width="235" height="172">
+		<img class="smallPhoto" src="/images/photos/himmie.jpg" alt="Himmie" width="227" height="172">
+		<a href="#header" class="toTop">[back to top]</a><br/><br/></p>
 		
 		<h3 id="guarantee">100% Guaranteed Satisfaction</h3>
 		<p>If for any reason you are not satisfied with our services, we will never charge you. We recognize that you have many options with other service providers and thus we work very hard to ensure you are getting what you pay for.
 		<br/><a href="#header" class="toTop">[back to top]</a><br/><br/></p>
 		
 		<h3 id="cpr">Pet CPR Certified</h3>
+		<img class="rightWrap cpr" src="/images/cpr-cert.gif" alt="American Red Cross Certified: Pet First Aid/CPR" width="99" height="51">
 		<p>To insure the safety of your pet, we are Pet First Aid Certified through the American Red Cross and we are equipped with Pet Care Services Association (PCSA) approved First Aid supplies. View our certification here. The likelihood that we will ever have to perform CPR on your pet is certainly not great, but we are prepared just in case. 
 		<br/><a href="#header" class="toTop">[back to top]</a><br/><br/></p>
 		
@@ -39,6 +56,7 @@
 		<br/><a href="#"><b class="small">View our certification here.</b></a>
 		<br/><a href="#header" class="toTop">[back to top]</a><br/><br/></p>
 		
+		<img class="rightWrap" src="/images/calendar.gif" alt="calendar" width="118" height="121">
 		<h3 id="yearround">We are here for you year round</h3>
 		<p>We are here for you and your pet year round &mdash; 365 days a year, 7 days a week, 24 hours a day. We ask that you give us at least 48 hours notice, especially around the holidays, but we also recognize that things come up last minute so we will always try our best.
 		<br/><a href="#header" class="toTop">[back to top]</a><br/><br/></p>

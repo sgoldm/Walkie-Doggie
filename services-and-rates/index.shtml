@@ -4,7 +4,12 @@
 <!--#include virtual="/c/bodystart.html" -->	
 	
 	<div id="rail" class="video">
-		<object width="500" height="306"><param name="movie" value="http://www.youtube.com/v/KrCaSZ97EpU?fs=1&amp;hl=en_US&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/KrCaSZ97EpU?fs=1&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="275" height="175"></embed></object>
+		<div id="youtube"><object width="500" height="306"><param name="movie" value="http://www.youtube.com/v/KrCaSZ97EpU?fs=1&amp;hl=en_US&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/KrCaSZ97EpU?fs=1&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="275" height="175"></embed></object></div>
+		
+		<img src="/images/photos/lucy.jpg" alt="Lucy" width="318" height="215">
+		<img src="/images/photos/bear.jpg" alt="Bear" width="318" height="215">
+		<img src="/images/photos/ray.jpg" alt="Ray" width="318" height="215">
+		<img src="/images/photos/andy.jpg" alt="Andy" width="318" height="215">
 	</div>
 	
 	<div id="content">

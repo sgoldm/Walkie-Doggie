@@ -442,26 +442,13 @@ a.moreButton {
 	background: url(/images/dog_house.png) no-repeat 0 0;
 }
 
+#rail.video img {margin-top: 15px;}
 
 #rail.photo { 
 	height: 85px; 
-	width: 320px; 
-	padding-top: 230px; 
-	padding-left: 66px; 
 	margin-top: 70px; 
 	margin-right: 52px;
 }
-
-#rail.photo .caption {
-	padding-top: 21px; 
-	padding-left: 55px; 
-	background: url(/images/caption-arrow.png) no-repeat 0 0;
-}
-
-#rail.photo .caption span {display: block; text-indent: -9999em; overflow: hidden;}
-
-#rail.piper { background: url(/images/piper-photo.jpg) no-repeat 0 0;}
-#rail.piper .caption span { background: url(/images/piper-caption.gif) no-repeat 0 0; width: 245px; height: 61px;}
 
 #requestServices {
 	height: 118px;
@@ -551,6 +538,28 @@ ul.bullets {
 	margin: 20px 0 20px 20px;
 }
 
+#clients {
+	color: #2d2d2d;
+	width: 318px;
+	display:inline-block;
+	margin-bottom: 20px;
+	font-size: 11px;
+}
+#clients-top, #clients-bot {height: 28px; width: 318px;}
+#clients-top {background:url(/images/client-box-top.gif) no-repeat 0 0;}
+#clients-bot {background:url(/images/client-box-bot.gif) no-repeat 0 0;}
+#clients-content {width:268px; background:url(/images/client-box-fill.gif) repeat-y 0 0; padding: 10px 25px; text-align:left;}
+#clients-content h3 {width:264px; height:26px; background:url(/images/clients-say.gif) no-repeat 0 0; margin-bottom:10px;}
+#clients-content h4 {font-size:11px; color:#2d2d2d; text-align:center; margin:20px 0;}
+#clients-content p {padding-left:3px;}
+#clients-content .client-quote {padding:0 21px; font-size:14px;}
+
+.smallPhoto {margin:10px 0 0;}
+.smallPhoto.left {margin-right:10px;}
+
+.rightWrap {float:right; margin-left:5px;}
+.rightWrap.cpr {margin-top:20px; margin-bottom:20px;}
+
 /* @end */
 
 
@@ -564,6 +573,7 @@ ul.bullets {
 	margin: 55px auto 0;
 	padding: 20px 0 30px;
 	width: 940px;
+	text-align: center;
 }
 
 #footer a, #footer a:hover {
@@ -574,10 +584,19 @@ ul.bullets {
 	text-decoration: underline;
 }
 
-#footer #address {
-	float: right;
-	text-align: right;
+#footer li {
+	display: inline-block;
+	margin-left: 1px;
+	padding-left: 5px;
+	border-left: 1px solid #2D2D2D;
 }
+
+#footer li:first-child {
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+
 
 /* @end */
 
