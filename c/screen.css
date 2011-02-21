@@ -296,11 +296,13 @@ ol li {
 
 /* @group Layout */
 
+#bumper {height:20px; width:100%; background:#fff !important;}
+
 #page {
 	width: 940px;
 	margin: 0 auto;
 	text-align: left;
-	padding: 20px 20px 0;
+	padding: 0 20px; 
 }
 
 #header {
@@ -362,7 +364,7 @@ ol li {
 
 #mainNav {
 	position: absolute;
-	right: 46px;
+	right: 42px;
 	top: 132px;
 }
 
@@ -560,6 +562,7 @@ ul.bullets {
 .rightWrap {float:right; margin-left:5px;}
 .rightWrap.cpr {margin-top:20px; margin-bottom:20px;}
 
+#content.thankyou {height:400px;}
 /* @end */
 
 

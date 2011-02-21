@@ -1,5 +1,7 @@
 $(document).ready(function(){
 	
+	$("a.cpr").colorbox();
+	
 	var bodyWidth = $("body").width();
 	var pageWidth = 980;
 	if ( bodyWidth < pageWidth ){

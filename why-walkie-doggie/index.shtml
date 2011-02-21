@@ -1,4 +1,5 @@
 <!--#include virtual="/c/pagestart.html" -->
+<link rel="stylesheet" href="/js/colorbox/colorbox.css">
 </head>
 <body class="why">
 <!--#include virtual="/c/bodystart.html" -->	
@@ -47,7 +48,7 @@
 		<br/><a href="#header" class="toTop">[back to top]</a><br/><br/></p>
 		
 		<h3 id="cpr">Pet CPR Certified</h3>
-		<img class="rightWrap cpr" src="/images/cpr-cert.gif" alt="American Red Cross Certified: Pet First Aid/CPR" width="99" height="51">
+		<a href="/images/FirstAidCard.jpg" class="rightWrap cpr"><img src="/images/cpr-cert.gif" alt="American Red Cross Certified: Pet First Aid/CPR" width="99" height="51"><br/>View Certificate</a>
 		<p>To insure the safety of your pet, we are Pet First Aid Certified through the American Red Cross and we are equipped with Pet Care Services Association (PCSA) approved First Aid supplies. View our certification here. The likelihood that we will ever have to perform CPR on your pet is certainly not great, but we are prepared just in case. 
 		<br/><a href="#header" class="toTop">[back to top]</a><br/><br/></p>
 		
