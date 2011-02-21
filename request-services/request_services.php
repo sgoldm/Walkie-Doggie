@@ -1,6 +1,6 @@
 <?php
 
-if  (strlen($_POST["first_name"]) < 3 || strlen($_POST["last_name"]) < 3 || strlen($_POST["address"]) < 3 || strlen($_POST["city"]) < 3)
+if  (strlen($_POST["first_name"]) < 3 || strlen($_POST["last_name"]) < 3 || strlen($_POST["address"]) < 3 || strlen($_POST["city"]) < 3 || strlen($_POST["email"]) < 3)
 { 
 	echo("Required form fields were not submitted.<br/><br/><a href='/request-services/'>Back</a>");
 }

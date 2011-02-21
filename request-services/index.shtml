@@ -87,7 +87,7 @@
 			<label>Phone One:</label><input class="text" type="text" name="phone1" value="" id="phone1" tabindex="7">
 			<label>Phone Two:</label><input class="text" type="text" name="phone2" value="" id="phone2" tabindex="8">
 			<label>Phone Three:</label><input class="text" type="text" name="phone3" value="" id="phone3" tabindex="9">
-			<label>Email:</label><input class="text" type="text" name="email" value="" id="email" tabindex="10">
+			<label>*Email:</label><input class="text" type="text" name="email" value="" id="email" tabindex="10">
 			<label>Name of Pet(s):</label><input class="text" type="text" name="pet_names" value="" id="pet_names" tabindex="11">
 			<label>Species/Breed of Pet(s):</label><input class="text" type="text" name="pet_species" value="" id="pet_species" tabindex="12">
 			
