@@ -217,7 +217,7 @@ a {
 }
 
 a:hover {
-	text-decoration: none;
+	text-decoration: underline;
 	cursor: pointer;
 	color:#dddddd;
 }
@@ -370,7 +370,7 @@ ol li {
 
 #mainNav li {
 	display: inline-block;
-	margin-left: 20px;
+	margin-left: 26px;
 }
 
 #mainNav a {
@@ -381,27 +381,29 @@ ol li {
 	height: 43px;
 }
 
-#services a { width: 120px;}
-#request a { width: 120px; background-position: -147px 0;}
-#why a { width: 72px; background-position: -295px 0;}
-#contact a { width: 76px; background-position: -386px 0;}
+#services a { width: 119px;}
+#request a { width: 120px; background-position: -145px 0;}
+#why a { width: 56px; background-position: -290px 0;}
+#contact a { width: 76px; background-position: -367px 0;}
 
 #services a:hover { background-position: 0 -43px;}
-#request a:hover { background-position: -147px -43px;}
-#why a:hover { background-position: -295px -43px;}
-#contact a:hover { background-position: -386px -43px;}
+#request a:hover { background-position: -145px -43px;}
+#why a:hover { background-position: -290px -43px;}
+#contact a:hover { background-position: -367px -43px;}
 
 .services #services a { background-position: 0 -86px;}
-.request #request a { background-position: -147px -86px;}
-.why #why a { background-position: -295px -86px;}
-.contact #contact a { background-position: -386px -86px;}
+.request #request a { background-position: -145px -86px;}
+.why #why a { background-position: -290px -86px;}
+.contact #contact a { background-position: -367px -86px;}
 
 /* @end */
 
 /* @group Content */
 
 .white { color:#fff;}
+.black, a.black, a.black:hover {color:#2d2d2d;}
 .small {font-size:.9em;}
+.underlined {text-decoration:underline;}
 
 a.dblArrow {
 	display: inline-block;
@@ -418,15 +420,15 @@ a.dblArrow:hover {
 }
 
 a.moreButton {
-	display: inline-block;
+	float: right;
 	margin-left: 4px;
-	font-size: 13px;
-	line-height: 16px;
-	width: 57px;
-	height: 17px;
-	text-align: center;
-	background: url(/images/more_bg.gif) no-repeat 0 0;
+	width: 77px;
+	height: 31px;
+	background: url(/images/more_btn.gif) no-repeat 0 0;
+	margin-right: 76px;
 }
+
+a.moreButton:hover { background-position: 0 -31px; }
 
 #content h1 { display: block; height: 42px; text-indent: -9999em; overflow: hidden; margin-bottom: 30px;}
 .services #content h1 { background: url(/images/services-and-rates.gif) no-repeat 0 0; width: 288px;}
@@ -434,6 +436,7 @@ a.moreButton {
 .why #content h1 { background: url(/images/why-wd.gif) no-repeat 0 0; width: 308px; height:47px;}
 .contact #content h1 { background: url(/images/contact-us.gif) no-repeat 0 0; width: 179px;}
 .whypetsitting #content h1 { background: url(/images/why-pet-sitting.gif) no-repeat 0 0; width: 483px; height:45px;}
+.serviceagreement #content h1 { background: url(/images/service-agreement.gif) no-repeat 0 0; width: 317px; height:45px;}
 
 #rail.video {
 	padding-top: 70px;
@@ -459,7 +462,14 @@ a.moreButton {
 	margin-top: 25px;
 }
 
-#requestServices a.picket {
+#printPDF {
+	height: 163px;
+	padding: 42px 0 0 120px;
+	position: relative;
+	margin-top: 25px;
+}
+
+a.picket {
 	display: block;
 	text-indent: -9999em;
 	overflow: hidden;
@@ -474,15 +484,28 @@ a.moreButton {
 	top: 0;
 }
 
+#printPDF a.picket {
+	height: 163px;
+	width: 175px;
+	background: url(/images/print_picket.gif) no-repeat 0 0;
+	position: absolute;
+	right: 20px;
+	top: 0;
+}
+
 #requestServices a.picket:hover, #requestServices a:hover + a.picket {
 	background-position: -132px 0;
 }
 
+#printPDF a.picket:hover { background-position: -175px 0; }
+
 .larger { font-size: 14px; line-height: 20px;}
 
-p.info { margin-bottom: 5px; margin-left: 60px; font-size: 14px;}
-.info span { display: block; float: left; width: 50px; text-align: right; margin-right: 10px;}
-.info b { font-weight: normal; display: block; float: left;}
+p.info { margin-bottom: 5px; margin-left: 60px; font-size: 19px;}
+.info span { display: block; float: left; width: 54px; height: 19px; text-indent: -9999px; margin-right: 10px;}
+#phone-label span {background:url(/images/phone_label.gif) no-repeat right 0;}
+#email-label span {background:url(/images/email_label.gif) no-repeat right 0;}
+#email-label a {color:#2d2d2d;}
 
 .inset {margin: 24px 0 24px 50px;}
 
@@ -506,6 +529,11 @@ input.text:focus, textarea:focus { border-color: #444;}
 #submit { display: block; text-indent: -9999em; overflow: hidden; height: 54px; width: 153px; background: url(/images/submit.gif) no-repeat 0 0; border: none; margin: 20px 0 0 104px;}
 #submit:hover { background-position: 0 -54px;}
 
+.request h2.ir, .request h3.ir {}
+h2#initial-visit {background:url(/images/initial-visit.gif) no-repeat 0 0; width:80px; height:16px;}
+h3#initial-how-to {background:url(/images/initial-how-to.gif) no-repeat 0 0; width:232px; height:20px;}
+h2#initial-visit-form {background:url(/images/initial-visit-form.gif) no-repeat 0 0; width:194px; height:20px;}
+
 .services h3 {color: #2d2d2d;}
 .services p {color:#fff;}
 .services p + h2 {margin-top:25px;}
@@ -517,11 +545,15 @@ input.text:focus, textarea:focus { border-color: #444;}
 .toTop {display:inline-block; margin-top:5px;}
 
 #psi-badge {
-	width: 154px;
-	height: 144px;
+	width: 171px;
+	height: 155px;
 	background-image: url(/images/psi-badge.gif);
 	background-position: 0 0;
-	margin: 0 auto;
+	margin-left: -17px;
+}
+
+.request #psi-badge {
+	margin: 100px auto 0;
 }
 
 #whypetsitting {
@@ -561,6 +593,7 @@ ul.bullets {
 
 .rightWrap {float:right; margin-left:5px;}
 .rightWrap.cpr {margin-top:20px; margin-bottom:20px;}
+.rightWrap.cpr:hover {text-decoration:none;}
 
 #content.thankyou {height:400px;}
 /* @end */
