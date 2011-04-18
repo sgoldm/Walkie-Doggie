@@ -5,7 +5,8 @@
 <!--#include virtual="/c/bodystart.html" -->	
 	
 	<div id="rail" class="video">
-		<object width="500" height="306"><param name="movie" value="http://www.youtube.com/v/KrCaSZ97EpU?fs=1&amp;hl=en_US&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/KrCaSZ97EpU?fs=1&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="275" height="175"></embed></object>
+		
+		<object width="500" height="306"><param name="movie" value="http://www.youtube.com/v/GXCMhhnHO_E?fs=1&amp;hl=en_US&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/GXCMhhnHO_E?fs=1&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="275" height="175"></embed></object>
 		
 		<a href="/why-walkie-doggie/why-dog-walking/" class="ir" id="whypetsitting">Why Pet Sitting and Dog Walking? Click here to find out!</a>
 	</div>

@@ -405,6 +405,10 @@ ol li {
 .small {font-size:.9em;}
 .underlined {text-decoration:underline;}
 
+.right-txt {text-align:right;}
+
+.hide {display:none;}
+
 a.dblArrow {
 	display: inline-block;
 	margin-left: 4px;
@@ -534,15 +538,44 @@ h2#initial-visit {background:url(/images/initial-visit.gif) no-repeat 0 0; width
 h3#initial-how-to {background:url(/images/initial-how-to.gif) no-repeat 0 0; width:232px; height:20px;}
 h2#initial-visit-form {background:url(/images/initial-visit-form.gif) no-repeat 0 0; width:194px; height:20px;}
 
-.services h3 {color: #2d2d2d;}
-.services p {color:#fff;}
+.services h3 {display:block; text-indent:-9999px; overflow:hidden; width:478px; height:22px; background-position:0 0; background-repeat: no-repeat;}
 .services p + h2 {margin-top:25px;}
-.services h2 {height: 41px; width: 105px; background-position:0 0;}
-.services h2#ourservices {background-image:url(/images/services-subhead.gif);}
-.services h2#neverextra {background-image:url(/images/neverextra-subhead.gif);}
-.services h2#bytheway {background-image:url(/images/bytheway-subhead.gif); width:127px; height:44px;}
+.services h2 {height: 60px; width: 153px; background-position:0 0;}
+.services h2#ourservices {background-image:url(/images/our-services.gif);}
+.services h2#neverextra {background-image:url(/images/never-extra.gif);}
+.services h2#bytheway {background-image:url(/images/by-the-way.gif);}
+
+.services h3#service01 {background-image:url(/images/service01.gif);}
+.services h3#service02 {background-image:url(/images/service02.gif);}
+.services h3#service03 {background-image:url(/images/service03.gif);}
+.services h3#service04 {background-image:url(/images/service04.gif);}
+.services h3#service05 {background-image:url(/images/service05.gif);}
+.services h3#service06 {background-image:url(/images/service06.gif);}
+.services h3#service07 {background-image:url(/images/service07.gif);}
+.services h3#service08 {background-image:url(/images/service08.gif);}
+.services h3#service09 {background-image:url(/images/service09.gif);}
+.services h3#service10 {background-image:url(/images/service10.gif);}
+.services h3#service11 {background-image:url(/images/service11.gif);}
+.services h3#service12 {background-image:url(/images/service12.gif);}
+
+.why h3#why01 {background:url(/images/why01.gif) no-repeat 0 0; width: 267px; height: 21px;}
+.why h3#why02 {background:url(/images/why02.gif) no-repeat 0 0; width: 267px; height: 21px;}
+.why h3#why03 {background:url(/images/why03.gif) no-repeat 0 0; width: 267px; height: 21px;}
+.why h3#why04 {background:url(/images/why04.gif) no-repeat 0 0; width: 267px; height: 21px;}
+.why h3#why05 {background:url(/images/why05.gif) no-repeat 0 0; width: 267px; height: 21px;}
+.why h3#why06 {background:url(/images/why06.gif) no-repeat 0 0; width: 267px; height: 21px;}
+.why h3#why07 {background:url(/images/why07.gif) no-repeat 0 0; width: 267px; height: 21px;}
+.why h3#why08 {background:url(/images/why08.gif) no-repeat 0 0; width: 267px; height: 21px;}
+.why h3#why09 {background:url(/images/why09.gif) no-repeat 0 0; width: 267px; height: 21px;}
+.why h3#why10 {background:url(/images/why10.gif) no-repeat 0 0; width: 267px; height: 21px;}
 
 .toTop {display:inline-block; margin-top:5px;}
+
+.whypetsitting h3#pet-sitting {background:url(/images/pet-sitting.gif) no-repeat 0 0; width: 130px; height: 50px;}
+.whypetsitting h3#why-pet-sitting {background:url(/images/why-pet-sitter.gif) no-repeat 0 0; width: 211px; height: 18px;}
+.whypetsitting h3#dog-walking {background:url(/images/dog-walking.gif) no-repeat 0 0; width: 130px; height: 50px;}
+
+.whypetsitting ul h3 {color:#2d2d2d;}
 
 #psi-badge {
 	width: 171px;
@@ -554,6 +587,10 @@ h2#initial-visit-form {background:url(/images/initial-visit-form.gif) no-repeat 
 
 .request #psi-badge {
 	margin: 100px auto 0;
+}
+
+.why #psi-badge {
+	margin: 30px auto 0;
 }
 
 #whypetsitting {
@@ -589,7 +626,7 @@ ul.bullets {
 #clients-content .client-quote {padding:0 21px; font-size:14px;}
 
 .smallPhoto {margin:10px 0 0;}
-.smallPhoto.left {margin-right:10px;}
+.smallPhoto.left {margin-right:5px;}
 
 .rightWrap {float:right; margin-left:5px;}
 .rightWrap.cpr {margin-top:20px; margin-bottom:20px;}
