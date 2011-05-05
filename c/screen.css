@@ -212,14 +212,14 @@ body {
 }
 
 a {
-	color: #ffffff;
-	text-decoration: none;
+	color: #fff;
+	text-decoration: underline;
 }
 
 a:hover {
 	text-decoration: underline;
 	cursor: pointer;
-	color:#dddddd;
+	color: #fff;
 }
 
 p, ul, table, ol {
@@ -409,6 +409,8 @@ ol li {
 
 .hide {display:none;}
 
+.plainLink a, a.plainLink {text-decoration:none;}
+
 a.dblArrow {
 	display: inline-block;
 	margin-left: 4px;
@@ -454,7 +456,6 @@ a.moreButton:hover { background-position: 0 -31px; }
 #rail.video img {margin-top: 15px;}
 
 #rail.photo { 
-	height: 85px; 
 	margin-top: 70px; 
 	margin-right: 52px;
 }
@@ -467,10 +468,8 @@ a.moreButton:hover { background-position: 0 -31px; }
 }
 
 #printPDF {
-	height: 163px;
-	padding: 42px 0 0 120px;
+	height: 136px;
 	position: relative;
-	margin-top: 25px;
 }
 
 a.picket {
@@ -480,8 +479,8 @@ a.picket {
 }
 
 #requestServices a.picket {
-	height: 118px;
-	width: 132px;
+	height: 162px;
+	width: 173px;
 	background: url(/images/picket.gif) no-repeat 0 0;
 	position: absolute;
 	right: 20px;
@@ -489,8 +488,8 @@ a.picket {
 }
 
 #printPDF a.picket {
-	height: 163px;
-	width: 175px;
+	height: 136px;
+	width: 144px;
 	background: url(/images/print_picket.gif) no-repeat 0 0;
 	position: absolute;
 	right: 20px;
@@ -498,10 +497,12 @@ a.picket {
 }
 
 #requestServices a.picket:hover, #requestServices a:hover + a.picket {
-	background-position: -132px 0;
+	background-position: -1px -162px;
 }
 
-#printPDF a.picket:hover { background-position: -175px 0; }
+#printPDF a.picket:hover { background-position: -144px -1px; }
+
+.services #printPDF {float: right; margin-top: -45px;}
 
 .larger { font-size: 14px; line-height: 20px;}
 
@@ -537,6 +538,8 @@ input.text:focus, textarea:focus { border-color: #444;}
 h2#initial-visit {background:url(/images/initial-visit.gif) no-repeat 0 0; width:80px; height:16px;}
 h3#initial-how-to {background:url(/images/initial-how-to.gif) no-repeat 0 0; width:232px; height:20px;}
 h2#initial-visit-form {background:url(/images/initial-visit-form.gif) no-repeat 0 0; width:194px; height:20px;}
+.request ul {list-style-type:disc; padding-left:15px;}
+h3#initial-how-to + p {margin:0;}
 
 .services h3 {display:block; text-indent:-9999px; overflow:hidden; width:478px; height:22px; background-position:0 0; background-repeat: no-repeat;}
 .services p + h2 {margin-top:25px;}
@@ -568,8 +571,9 @@ h2#initial-visit-form {background:url(/images/initial-visit-form.gif) no-repeat 
 .why h3#why08 {background:url(/images/why08.gif) no-repeat 0 0; width: 267px; height: 21px;}
 .why h3#why09 {background:url(/images/why09.gif) no-repeat 0 0; width: 267px; height: 21px;}
 .why h3#why10 {background:url(/images/why10.gif) no-repeat 0 0; width: 267px; height: 21px;}
+.why h3#why11 {background:url(/images/why11.gif) no-repeat 0 0; width: 267px; height: 21px;}
 
-.toTop {display:inline-block; margin-top:5px;}
+.toTop {display:inline-block; margin-top:5px; text-decoration:none;}
 
 .whypetsitting h3#pet-sitting {background:url(/images/pet-sitting.gif) no-repeat 0 0; width: 130px; height: 50px;}
 .whypetsitting h3#why-pet-sitting {background:url(/images/why-pet-sitter.gif) no-repeat 0 0; width: 211px; height: 18px;}
@@ -631,6 +635,7 @@ ul.bullets {
 .rightWrap {float:right; margin-left:5px;}
 .rightWrap.cpr {margin-top:20px; margin-bottom:20px;}
 .rightWrap.cpr:hover {text-decoration:none;}
+.rightWrap.cpr span, .rightWrap.cpr span:hover {text-decoration:underline;}
 
 #content.thankyou {height:400px;}
 /* @end */

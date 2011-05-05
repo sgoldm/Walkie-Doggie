@@ -4,17 +4,22 @@
 <!--#include virtual="/c/bodystart.html" -->	
 	
 	<div id="rail" class="video">
-		<div id="youtube"><object width="500" height="306"><param name="movie" value="http://www.youtube.com/v/KrCaSZ97EpU?fs=1&amp;hl=en_US&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/KrCaSZ97EpU?fs=1&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="275" height="175"></embed></object></div>
+		<div id="youtube">
+			
+			<object width="560" height="349"><param name="movie" value="http://www.youtube.com/v/jEmUuiSuDOk?fs=1&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/jEmUuiSuDOk?fs=1&amp;hl=en_US" type="application/x-shockwave-flash" width="275" height="175" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+			
+			</div>
 		
 		<img src="/images/photos/cleo.jpg" alt="Cleo" width="328" height="233">
 		<img src="/images/photos/angel.jpg" alt="Angel" width="328" height="239">
 		<img src="/images/photos/pip.jpg" alt="Pip" width="328" height="255">
-		<img src="/images/photos/patty.jpg" alt="Patty" width="328" height="447">
 	</div>
 	
 	<div id="content">
-			<p class="right-txt larger"><a href="/pdfs/WalkieDoggieServicesAndPrices.pdf" target="_blank"><b>View Printer Friendly PDF</b></a></p>
 			<h1>Services and Rates</h1>
+			<div id="printPDF">
+				<a href="/pdfs/WalkieDoggieServicesAndPrices.pdf" target="_blank" class="picket">View Printer Friendly PDF</a>
+			</div>
 			<h2 id="ourservices" class="ir">Our Services</h2>
 			
 			<h3 id="service01">Free Initial Visit: FREE</h3>

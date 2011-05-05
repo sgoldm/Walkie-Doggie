@@ -9,7 +9,7 @@
 	
 	<div id="content">
 		<h1>Contact Us</h1>
-		<p class="larger"><b>Please use one of the following methods to contact us. We will get in touch with you as quickly as possible.</b></p>
+		<p class="larger"><b>Please use one of the following methods to contact us.</b></p>
 		<p class="info" id="phone-label"><span>Phone:</span>812-568-5051</p>
 		<p class="info" id="email-label"><span>Email:</span><a href="mailto:info@walkiedoggie.com">info@walkiedoggie.com</a></p>
 		<div id="requestServices">

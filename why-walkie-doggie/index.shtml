@@ -5,15 +5,14 @@
 <!--#include virtual="/c/bodystart.html" -->	
 	
 	<div id="rail" class="video">
-		<div id="youtube"><object width="500" height="306"><param name="movie" value="http://www.youtube.com/v/KrCaSZ97EpU?fs=1&amp;hl=en_US&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/KrCaSZ97EpU?fs=1&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="275" height="175"></embed></object></div>
+		<div id="youtube">
+			<object width="560" height="349"><param name="movie" value="http://www.youtube.com/v/G2fx6cZGZ3I?fs=1&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/G2fx6cZGZ3I?fs=1&amp;hl=en_US" type="application/x-shockwave-flash" width="275" height="175" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+		</div>
 		<div id="clients">
 			<div id="clients-top"></div>
 			<div id="clients-content">
 				<h3 class="ir">What our clients are saying</h3>
-				<p>We think it is very important that you know what are other clients say about us and our services. We can provide you with several references that would love to give you some additional assurance about your important decision.</p>
 				
-
-				<h4>Check out what our customers have to say!</h4>
 				
 				<div class="client-quote">&quot;Walkie Doggie made my dog feel right at home! I plan on using them every time my family goes out of town!&quot;</div>
 				
@@ -26,15 +25,16 @@
 	
 	<div id="content">
 			<h1>Why Walkie Doggie</h1>
-			<p>Our goal is to provide you with the utmost assurance that you can trust us and our services. We love and take great pride in what we do and can’t wait to become best friends with your pet. Here is why people trust Walkie Doggie:</p>
+			<p>Our goal is to provide you with the utmost assurance that you can trust us and our services. We love and take great pride in what we do and can't wait to become friends with your pet. Here is why people trust Walkie Doggie for their dog walking and pet sitting needs:</p>
 		<div class="inset">
-			<h3><a href="#why01">We have pets too!</a></h3>
-			<h3><a href="#why02">100% Guaranteed Satisfaction</a></h3>
-			<h3><a href="#why03">Pet CPR Certified</a></h3>
-			<h3 class="hide"><a href="#why11">Insured and bonded</a></h3>
-			<h3><a href="#why05">We are here for you year around</a></h3>
-			<h3><a href="#why06">No charge initial visit</a></h3>
-			<br/>
+		<ul class="bullets white plainLink">
+			<li><h3><a href="#why01">We have pets too!</a></h3></li>
+			<li><h3><a href="#why02">100% Guaranteed Satisfaction</a></h3></li>
+			<li><h3><a href="#why03">Pet CPR Certified</a></h3></li>
+			<li><h3><a href="#why05">We are here for you year around</a></h3></li>
+			<li><h3><a href="#why06">No charge initial visit</a></h3></li>
+			<li><h3><a href="#why11">Insured and bonded</a></h3></li>
+		</ul>
 		</div>
 		
 		<h3 id="why01" class="ir">We have pets too!</h3>
@@ -48,14 +48,10 @@
 		<br/><a href="#header" class="toTop">[back to top]</a><br/><br/></p>
 		
 		<h3 id="why03" class="ir">Pet CPR Certified</h3>
-		<a href="/images/FirstAidCard.jpg" class="rightWrap cpr"><img src="/images/cpr-cert.gif" alt="American Red Cross Certified: Pet First Aid/CPR" width="99" height="51"><br/>View Certificate</a>
+		<a href="/images/FirstAidCard.jpg" class="rightWrap cpr plainLink"><img src="/images/cpr-cert.gif" alt="American Red Cross Certified: Pet First Aid/CPR" width="99" height="51"><br/><span>View Certificate</span></a>
 		<p>To insure the safety of your pet, we are Pet First Aid Certified through the American Red Cross and we are equipped with Pet Care Services Association (PCSA) approved First Aid supplies. <a class="larger black underlined cpr" href="/images/FirstAidCard.jpg"><b>View our certification here.</b></a> The likelihood that we will ever have to perform CPR on your pet is certainly not great, but we are prepared just in case. 
 		<br/><a href="#header" class="toTop">[back to top]</a><br/><br/></p>
 		
-		<h3 class="hide ir" id="why11">Insured and Bonded</h3>
-		<p class="hide">We are insured, proof of bonding (you never have to worry, but again for additional peace of mind if anything was ever stolen, etc. you would be covered).
-		<br/><a href="#"><b class="small">View our certification here.</b></a>
-		<br/><a href="#header" class="toTop">[back to top]</a><br/><br/></p>
 		
 		<img class="rightWrap" src="/images/calendar.gif" alt="calendar" width="118" height="121">
 		<h3 id="why04" class="ir">We are here for you year round</h3>
@@ -63,7 +59,7 @@
 		<br/><a href="#header" class="toTop">[back to top]</a><br/><br/></p>
 		
 		<h3 id="why05" class="ir">No Charge Initial Visit</h3>
-		<p>Our initial visit is absolutely FREE and are initial visit usually takes NO MORE than 30 minutes.</p>
+		<p>Our initial visit is absolutely FREE and our initial visit usually takes NO MORE than 30 minutes.</p>
 		<div class="inset">
 			<h3 id="why06" class="ir">You and your pets must love us!</h3>
 			<p>We want to meet your pets and for you to observe your pets' comfort level and reaction to us.  We want you to see our passion and energy for what we do and our love for pets.</p>
@@ -78,10 +74,14 @@
 			<p>We take great pride in our safety standards to ensure your pet(s) are safe in our hands. We will review with you how we take care of your home when you are gone to help prevent people from knowing you are gone and how we ensure the safety of your dog on our walks.</p> 
 
 			<h3 id="why10" class="ir">Review our service agreement</h3>
-			<p>There are a number of details that we outline in our simple service agreement. We will review with you our pricing, outlining services you are requesting, putting in writing our 100% money-back guarantee and our confidentiality. No one enjoys surprises and a simple agreement in writing will help us prevent. View our service agreement here. View our service...
+			<p>There are a number of details that we outline in our simple service agreement. We will review with you our pricing, outlining services you are requesting, putting in writing our 100% guaranteed satisfaction and our confidentiality. No one enjoys surprises and a simple agreement in writing will help us prevent. <a href="/service-agreement/">View our service agreement here.</a>
 			<br/><a href="#header" class="toTop">[back to top]</a><br/><br/></p>
 		</div>
 		
+		<h3 class="ir" id="why11">Insured and Bonded</h3>
+		<p>We are insured, proof of bonding (you never have to worry, but again for additional peace of mind if anything was ever stolen, etc. you would be covered).
+		<br/><a href="#"><b class="small">View our certification here.</b></a>
+		<br/><a href="#header" class="toTop">[back to top]</a><br/><br/></p>
 
 
 

@@ -4,7 +4,7 @@
 <!--#include virtual="/c/bodystart.html" -->	
 	
 	<div id="rail" class="photo">
-		<img src="/images/photos/patty-pip-barnie.jpg" alt="Patty, Pip and Barnie look forward to their walk every day!" width="385" height="333">
+		<img src="/images/photos/patti-walk.jpg" alt="Patti looks forward to her walk every day!" width="385" height="485">
 		<a href="#" class="ir" id="psi-badge">Pet Sitters International</a>
 	</div>
 	
@@ -14,11 +14,12 @@
 		<p class="larger">We want to make sure you and your pet(s) love us! We also want to meet and learn about your pet(s), obtain a clear understanding of your requests, review our safety standards and <a href="/service-agreement/">service agreement</a> at no cost to you. You can expect this meeting to usually last no more than 30 minutes.</p>
 		<div class="inset">
 			<h3 class="ir" id="initial-how-to">How to Set up an Initial Visit:</h3>
-			<p>You can request an initial visit in one or more ways -<br/>
-			Call us at <strong>(812) 568-5051</strong><br/>
-			Email us at <strong><a href="mailto:info@walkiedoggie.com">info@walkiedoggie.com</a></strong><br/>
-			Fill out the short initial visit request form below. Upon submission, 
-			we will contact you shortly about your request.</p>
+			<p>You can request an initial visit in one or more ways -</p>
+			<ul>
+			<li>Call us at <strong>(812) 568-5051</strong></li>
+			<li>Email us at <strong><a href="mailto:info@walkiedoggie.com">info@walkiedoggie.com</a></strong></li>
+			<li>Fill out the short initial visit request form below. Upon submission, 
+			we will contact you shortly about your request.</li></ul>
 		</div>
 		<h2 class="ir" id="initial-visit-form">Initial Visit Request Form</h2>
 		<p>Please fill out the information below and we will get back to you within 24 hours.</p>
@@ -31,7 +32,7 @@
 			
 			<label>State:</label>
 			<select name="state" id="state" size="1" tabindex="5">
-				<option value="AL">Alabama</option>
+				<!-- <option value="AL">Alabama</option>
                 <option value="AK">Alaska</option>
                 <option value="AZ">Arizona</option>
                 <option value="AR">Arkansas</option>
@@ -44,9 +45,9 @@
                 <option value="GA">Georgia</option>
                 <option value="HI">Hawaii</option>
                 <option value="ID">Idaho</option>
-                <option value="IL">Illinois</option>
+                <option value="IL">Illinois</option> -->
                 <option value="IN">Indiana</option>
-                <option value="IA">Iowa</option>
+                <!-- <option value="IA">Iowa</option>
                 <option value="KS">Kansas</option>
                 <option value="KY">Kentucky</option>
                 <option value="LA">Louisiana</option>
@@ -81,7 +82,7 @@
                 <option value="WA">Washington</option>
                 <option value="WV">West Virginia</option>
                 <option value="WI">Wisconsin</option>
-                <option value="WY">Wyoming</option>
+                <option value="WY">Wyoming</option> -->
 			</select>
 			
 			<label>Zip:</label><input class="text" type="text" name="zip" value="" id="zip" tabindex="6">

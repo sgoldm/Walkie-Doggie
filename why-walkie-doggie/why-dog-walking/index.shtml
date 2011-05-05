@@ -4,14 +4,13 @@
 <!--#include virtual="/c/bodystart.html" -->	
 	
 	<div id="rail" class="photo">
-		<img src="/images/photos/barney.jpg" alt="Barney looks forward to his walk every day!" width="356" height="538">
+		<img src="/images/photos/pip-walk.jpg" alt="Pip looks forward to his walk every day!" width="356" height="538">
 	</div>
 	
 	<div id="content">
 			<h1>Why Pet Sitting &amp; Dog Walking</h1>
-			<p>If your dog is home alone all day while you are either at work, out of town, or on vacation, or if you are physically unable to walk your dog we are here to help!</p>
+			<p>If your pet is home alone all day while you are either at work, out of town, or on vacation, or if you are physically unable to walk your dog we are here to help!</p>
 			<h3 id="pet-sitting" class="ir">Pet Sitting</h3>
-			<p>If you are going out of town or on vacation, consider our <a href="/services-and-rates/">Pet Sitting Services</a> vs. boarding your pet. Your pet will stay in it's own home, surrounded by their safe &amp; familiar environment.</p>
 		
 		
 		<h3 id="why-pet-sitting" class="ir">Why use an At Home Pet Sitter?</h3>
