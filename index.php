@@ -1,3 +1,9 @@
+<?php
+
+$title = "Walkie Doggie & Pet Sitter Company | Evansville, IN Dog Walkers and Pet Sitters";
+
+?>
+
 <?php include "c/pagestart.html" ?>
 <link rel="stylesheet" href="/c/home.css">
 </head>
