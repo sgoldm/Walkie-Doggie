@@ -1,7 +1,7 @@
-<?php include "/c/pagestart.html" ?>
+<?php include "../../c/pagestart.html" ?>
 </head>
 <body class="whypetsitting">
-<?php include "/c/bodystart.html" ?>	
+<?php include "../../c/bodystart.html" ?>	
 	
 	<div id="rail" class="photo">
 		<img src="/images/photos/pip-walk.jpg" alt="Pip looks forward to his walk every day!" width="356" height="538">
@@ -48,4 +48,4 @@
 		
 	</div>
 		
-<?php include "/c/pageend.html" ?>
+<?php include "../../c/pageend.html" ?>

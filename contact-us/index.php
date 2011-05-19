@@ -1,7 +1,7 @@
-<?php include "/c/pagestart.html" ?>
+<?php include "../c/pagestart.html" ?>
 </head>
 <body class="contact">
-<?php include "/c/bodystart.html" ?>	
+<?php include "../c/bodystart.html" ?>	
 	
 	<div id="rail" class="photo">
 		<img src="/images/photos/piper.jpg" alt="Piper comes to our home when her owners leave town!" width="385" height="311">
@@ -18,4 +18,4 @@
 		<a href="#" class="ir" id="psi-badge">Pet Sitters International</a>
 	</div>
 		
-<?php include "/c/pageend.html" ?>
+<?php include "../c/pageend.html" ?>

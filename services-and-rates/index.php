@@ -1,7 +1,7 @@
-<?php include "/c/pagestart.html" ?>
+<?php include "../c/pagestart.html" ?>
 </head>
 <body class="services">
-<?php include "/c/bodystart.html" ?>	
+<?php include "../c/bodystart.html" ?>	
 	
 	<div id="rail" class="video">
 		<div id="youtube">
@@ -70,4 +70,4 @@
 			
 	</div>
 		
-<?php include "/c/pageend.html" ?>
+<?php include "../c/pageend.html" ?>

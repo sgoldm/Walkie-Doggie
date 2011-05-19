@@ -1,8 +1,8 @@
-<?php include "/c/pagestart.html" ?>
+<?php include "../c/pagestart.html" ?>
 <link rel="stylesheet" href="/js/colorbox/colorbox.css">
 </head>
 <body class="why">
-<?php include "/c/bodystart.html" ?>	
+<?php include "../c/bodystart.html" ?>	
 	
 	<div id="rail" class="video">
 		<div id="youtube">
@@ -92,4 +92,4 @@
 		
 	</div>
 		
-<?php include "/c/pageend.html" ?>
+<?php include "../c/pageend.html" ?>
