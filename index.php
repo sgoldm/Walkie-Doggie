@@ -1,8 +1,8 @@
-<!--#include virtual="/c/pagestart.html" -->
+<?php include "c/pagestart.html" ?>
 <link rel="stylesheet" href="/c/home.css">
 </head>
 <body class="home">
-<!--#include virtual="/c/bodystart.html" -->	
+<?php include "c/bodystart.html" ?>	
 	
 	<div id="rail" class="video">
 		
@@ -23,4 +23,4 @@
 		<a href="#" class="ir" id="psi-badge">Pet Sitters International</a>
 	</div>
 		
-<!--#include virtual="/c/pageend.html" -->
+<?php include "c/pageend.html" ?>
