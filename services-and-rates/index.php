@@ -1,7 +1,7 @@
-<!--#include virtual="/c/pagestart.html" -->
+<?php include "/c/pagestart.html" ?>
 </head>
 <body class="services">
-<!--#include virtual="/c/bodystart.html" -->	
+<?php include "/c/bodystart.html" ?>	
 	
 	<div id="rail" class="video">
 		<div id="youtube">
@@ -70,4 +70,4 @@
 			
 	</div>
 		
-<!--#include virtual="/c/pageend.html" -->
+<?php include "/c/pageend.html" ?>

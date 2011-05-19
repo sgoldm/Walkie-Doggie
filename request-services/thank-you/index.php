@@ -1,7 +1,7 @@
-<!--#include virtual="/c/pagestart.html" -->
+<?php include "/c/pagestart.html" ?>
 </head>
 <body class="request">
-<!--#include virtual="/c/bodystart.html" -->	
+<?php include "/c/bodystart.html" ?>	
 	
 	<div id="rail" class="photo">
 		<img src="/images/photos/patty-pip-barnie.jpg" alt="Patty, Pip and Barnie look forward to their walk every day!" width="385" height="333">
@@ -14,4 +14,4 @@
 		
 	</div>
 		
-<!--#include virtual="/c/pageend.html" -->
+<?php include "/c/pageend.html" ?>
