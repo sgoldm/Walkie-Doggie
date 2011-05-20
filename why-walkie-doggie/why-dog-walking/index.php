@@ -1,3 +1,12 @@
+<?php
+
+$title = "Walkie Doggie &amp; Pet Sitter Company | Why Pet Sitting &amp; Dog Walking";
+
+$keywords = "choose dog walker, choose pet sitter, find dog walker, walkie doggie, walkie, doggie, dog walking, pet sitting, pet sitter, pet care, evansville, indiana, newburgh, dog walker";
+
+$desc = "If your pet is home alone all day while you are either at work, out of town, or on vacation, or if you are physically unable to walk your dog Walkie Doggie &amp; Pet Sitter Company is here to help! Discover our dog walking and pet sitting services in Evansville, Indiana today.";
+
+?>
 <?php include "../../c/pagestart.html" ?>
 </head>
 <body class="whypetsitting">

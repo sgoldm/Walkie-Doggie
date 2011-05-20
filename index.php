@@ -1,6 +1,6 @@
 <?php
 
-$title = "Walkie Doggie & Pet Sitter Company | Evansville, IN Dog Walkers and Pet Sitters";
+$title = "Walkie Doggie &amp; Pet Sitter Company | Evansville, IN Dog Walkers and Pet Sitters";
 
 $keywords = "walkie doggie, walkie, doggie, dog walking, pet sitting, pet sitter, pet care, evansville, indiana, newburgh, dog walker";
 

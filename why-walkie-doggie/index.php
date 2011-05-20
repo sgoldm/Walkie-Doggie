@@ -1,3 +1,12 @@
+<?php
+
+$title = "Walkie Doggie &amp; Pet Sitter Company | Why Choose Us";
+
+$keywords = "choose dog walker, choose pet sitter, find dog walker, walkie doggie, walkie, doggie, dog walking, pet sitting, pet sitter, pet care, evansville, indiana, newburgh, dog walker";
+
+$desc = "Our goal is to provide you with the utmost assurance that you can trust us and our dog walker and pet sitter services.  Walkie Doggie &amp; Pet Sitter Company loves and takes great pride in what we do and can't wait to become friends with your pet.";
+
+?>
 <?php include "../c/pagestart.html" ?>
 <link rel="stylesheet" href="/js/colorbox/colorbox.css">
 </head>

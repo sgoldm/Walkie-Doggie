@@ -1,3 +1,12 @@
+<?php
+
+$title = "Walkie Doggie &amp; Pet Sitter Company | Services and Rates";
+
+$keywords = "dog walker rates, pet sitter rates, walkie doggie, walkie, doggie, dog walking, pet sitting, pet sitter, pet care, evansville, indiana, newburgh, dog walker";
+
+$desc = "Walkie Doggie &amp; Pet Sitter Company is dedicated to providing second-to-none quality pet care. Learn about our basic home and pet sitter services, as well as private dog walking in the Evansville, Indiana area.";
+
+?>
 <?php include "../c/pagestart.html" ?>
 </head>
 <body class="services">

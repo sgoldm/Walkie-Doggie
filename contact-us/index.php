@@ -1,3 +1,12 @@
+<?php
+
+$title = "Walkie Doggie &amp; Pet Sitter Company | Contact Us";
+
+$keywords = "evansville dog walking, evansville dog walker, evansville pet services, walkie doggie, walkie, doggie, dog walking, pet sitting, pet sitter, pet care, evansville, indiana, newburgh, dog walker";
+
+$desc = "Contact Walkie Doggie &amp; Pet Sitter Company today to set up dog walking and pet sitting services in the Evansville, Indiana area.";
+
+?>
 <?php include "../c/pagestart.html" ?>
 </head>
 <body class="contact">
