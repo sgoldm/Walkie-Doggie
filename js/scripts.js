@@ -10,7 +10,8 @@ $(document).ready(function(){
 
 	
 	$('#client-quotes').cycle({
-		speed: 2000,
+		speed: 500,
+		timeout: 4000,
 		before: onBefore,
 		sync: 0
 	});
