@@ -181,7 +181,7 @@ textarea.contenteditable {-webkit-appearance: none;}
 /* Primary Styles for mobile
    Author:
 */
-#rail { display: none !important; }
+#rail { display: none; }
 
 /*
  * Media queries for responsive design https://github.com/shichuan/mobile-html5-boilerplate/wiki/The-Style
