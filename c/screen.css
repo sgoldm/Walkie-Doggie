@@ -369,8 +369,9 @@ ol li {
 }
 
 #mainNav li {
-	display: inline-block;
-	margin-left: 26px;
+	display: block;
+	margin-left: 29px;
+	float: left;
 }
 
 #mainNav a {
