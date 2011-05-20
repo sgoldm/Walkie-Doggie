@@ -223,8 +223,10 @@ body {margin: 0 5px;}
 	font-size: 14px;
 }
 
-
-#main h1 {margin-top: 10px;}
+#content {
+	float: none;
+	padding-top: 0;
+}
 
 /*
  * Media queries for responsive design https://github.com/shichuan/mobile-html5-boilerplate/wiki/The-Style
