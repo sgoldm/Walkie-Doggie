@@ -2,6 +2,10 @@
 
 $title = "Walkie Doggie & Pet Sitter Company | Evansville, IN Dog Walkers and Pet Sitters";
 
+$keywords = "walkie doggie, walkie, doggie, dog walking, pet sitting, pet sitter, pet care, evansville, indiana, newburgh, dog walker";
+
+$desc = "Walkie Doggie is a dog walking and pet sitting company in Evansville, Indiana. We're comprised of dependable, trustworthy, and knowledgeable Pet Sitters and Dog Walkers who have a genuine love for pets, dedication to providing second-to-none quality pet care, and active community involvement.";
+
 ?>
 
 <?php include "c/pagestart.html" ?>

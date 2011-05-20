@@ -6,7 +6,7 @@
 	
 	<div id="rail" class="video">
 		<div id="youtube">
-			<object width="560" height="349"><param name="movie" value="http://www.youtube.com/v/G2fx6cZGZ3I?fs=1&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/G2fx6cZGZ3I?fs=1&amp;hl=en_US" type="application/x-shockwave-flash" width="275" height="175" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+			<object width="560" height="349"><param name="movie" value="http://www.youtube.com/v/G2fx6cZGZ3I?fs=1&amp;hl=en_US&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/G2fx6cZGZ3I?fs=1&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" width="275" height="175" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 		</div>
 		<div id="clients">
 			<div id="clients-top"></div>
