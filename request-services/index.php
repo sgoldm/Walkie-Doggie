@@ -17,7 +17,7 @@ $desc = "Set up a visit with Walkie Doggie &amp; Pet Sitter Company today to lea
 		<a href="#" class="ir" id="psi-badge">Pet Sitters International</a>
 	</div>
 	
-	<div id="content">
+	<!-- <div id="content">
 		<h1>Request Services</h1>
 		<h2 class="ir" id="initial-visit">Initial Visit</h2>
 		<p class="larger">We want to make sure you and your pet(s) love us! We also want to meet and learn about your pet(s), obtain a clear understanding of your requests, review our safety standards and <a href="/service-agreement/">pet sitter and dog walker service agreement</a> at no cost to you. You can expect this meeting to usually last no more than 30 minutes.</p>
@@ -41,7 +41,7 @@ $desc = "Set up a visit with Walkie Doggie &amp; Pet Sitter Company today to lea
 			
 			<label>State:</label>
 			<select name="state" id="state" size="1" tabindex="5">
-				<!-- <option value="AL">Alabama</option>
+				--><!-- <option value="AL">Alabama</option>
                 <option value="AK">Alaska</option>
                 <option value="AZ">Arizona</option>
                 <option value="AR">Arkansas</option>
@@ -55,7 +55,7 @@ $desc = "Set up a visit with Walkie Doggie &amp; Pet Sitter Company today to lea
                 <option value="HI">Hawaii</option>
                 <option value="ID">Idaho</option>
                 <option value="IL">Illinois</option> -->
-                <option value="IN">Indiana</option>
+                <!-- <option value="IN">Indiana</option> -->
                 <!-- <option value="IA">Iowa</option>
                 <option value="KS">Kansas</option>
                 <option value="KY">Kentucky</option>
@@ -92,41 +92,41 @@ $desc = "Set up a visit with Walkie Doggie &amp; Pet Sitter Company today to lea
                 <option value="WV">West Virginia</option>
                 <option value="WI">Wisconsin</option>
                 <option value="WY">Wyoming</option> -->
-			</select>
-			
-			<label>Zip:</label><input class="text" type="text" name="zip" value="" id="zip" tabindex="6">
-			<label>Phone One:</label><input class="text" type="text" name="phone1" value="" id="phone1" tabindex="7">
-			<label>Phone Two:</label><input class="text" type="text" name="phone2" value="" id="phone2" tabindex="8">
-			<label>Phone Three:</label><input class="text" type="text" name="phone3" value="" id="phone3" tabindex="9">
-			<label>*Email:</label><input class="text" type="text" name="email" value="" id="email" tabindex="10">
-			<label>Name of Pet(s):</label><input class="text" type="text" name="pet_names" value="" id="pet_names" tabindex="11">
-			<label>Species/Breed of Pet(s):</label><input class="text" type="text" name="pet_species" value="" id="pet_species" tabindex="12">
-			
-			<label class="textarea">Describe service(s) you would like:</label>
-			<textarea name="services_wanted" rows="5" cols="40" tabindex="13"></textarea>
-			
-			<label class="radio">Do any of your pets have special care needs?</label>
-			<input type="radio" name="special_needs" value="Y" id="special_needs_Y"><label class="radio">yes</label>
-			<input type="radio" name="special_needs" value="N" id="special_needs_N"><label class="radio">no</label>
-			<label class="textarea">If yes, please describe:</label>
-			<textarea name="special_needs_desc" rows="5" cols="40" tabindex="14"></textarea>
-			
-			<label class="textarea">Date(s) and time(s) you would like service(s):</label>
-			<textarea name="service_times" rows="2" cols="40" tabindex="15"></textarea>
-			
-			<label class="textarea">When are you available for an initial visit?:</label>
-			<textarea name="visit_time" rows="2" cols="40" tabindex="16"></textarea>
-			
-			<label>How did you hear about us?</label>
-			<select name="heard_from" id="heard_from" size="1">
-				<option value="Online">Online</option>
-				<option value="Friend">Friend</option>
-				<option value="Other">Other</option>
-			</select>
-			
-			<p><input type="submit" value="submit" id="submit"></p>
-		</form>
-		
-	</div>
+			<!-- </select>
+					
+					<label>Zip:</label><input class="text" type="text" name="zip" value="" id="zip" tabindex="6">
+					<label>Phone One:</label><input class="text" type="text" name="phone1" value="" id="phone1" tabindex="7">
+					<label>Phone Two:</label><input class="text" type="text" name="phone2" value="" id="phone2" tabindex="8">
+					<label>Phone Three:</label><input class="text" type="text" name="phone3" value="" id="phone3" tabindex="9">
+					<label>*Email:</label><input class="text" type="text" name="email" value="" id="email" tabindex="10">
+					<label>Name of Pet(s):</label><input class="text" type="text" name="pet_names" value="" id="pet_names" tabindex="11">
+					<label>Species/Breed of Pet(s):</label><input class="text" type="text" name="pet_species" value="" id="pet_species" tabindex="12">
+					
+					<label class="textarea">Describe service(s) you would like:</label>
+					<textarea name="services_wanted" rows="5" cols="40" tabindex="13"></textarea>
+					
+					<label class="radio">Do any of your pets have special care needs?</label>
+					<input type="radio" name="special_needs" value="Y" id="special_needs_Y"><label class="radio">yes</label>
+					<input type="radio" name="special_needs" value="N" id="special_needs_N"><label class="radio">no</label>
+					<label class="textarea">If yes, please describe:</label>
+					<textarea name="special_needs_desc" rows="5" cols="40" tabindex="14"></textarea>
+					
+					<label class="textarea">Date(s) and time(s) you would like service(s):</label>
+					<textarea name="service_times" rows="2" cols="40" tabindex="15"></textarea>
+					
+					<label class="textarea">When are you available for an initial visit?:</label>
+					<textarea name="visit_time" rows="2" cols="40" tabindex="16"></textarea>
+					
+					<label>How did you hear about us?</label>
+					<select name="heard_from" id="heard_from" size="1">
+						<option value="Online">Online</option>
+						<option value="Friend">Friend</option>
+						<option value="Other">Other</option>
+					</select>
+					
+					<p><input type="submit" value="submit" id="submit"></p>
+				</form>
+				
+			</div> -->
 		
 <?php include "../c/pageend.html" ?>
