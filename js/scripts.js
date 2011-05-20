@@ -12,8 +12,7 @@ $(document).ready(function(){
 		speed: 500,
 		timeout: 4000,
 		before: onBefore,
-		sync: 0,
-		cssBefore: {'width':'auto'}
+		sync: 0
 	});
 	
 	function onBefore() { 
