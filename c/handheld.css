@@ -244,9 +244,9 @@ textarea.contenteditable {-webkit-appearance: none;}
 }
 #mainNav li:first {margin: 0;}
 #content {clear: both;}
-#main {	background: #80cd3e; padding: 10px 5px;}
+#main {	padding: 10px 5px;}
 
-#content h1 { font-size: 14px;}
+#content h1 { font-size: 18px; margin-bottom: 10px;}
 
 #footer {margin: 10px 5px;}
 
