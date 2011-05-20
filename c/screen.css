@@ -598,6 +598,7 @@ h3#initial-how-to + p {margin:0;}
 .request #psi-badge {
 	margin-top: 100px;
 	margin-left: 85px;
+	*margin-left: 0;
 }
 
 .why #psi-badge {
