@@ -11,7 +11,8 @@ $(document).ready(function(){
 	
 	$('#client-quotes').cycle({
 		speed: 2000,
-		before: onBefore
+		before: onBefore,
+		sync: 0
 	});
 	
 	function onBefore() { 
