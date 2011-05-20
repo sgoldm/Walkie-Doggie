@@ -427,6 +427,7 @@ a.dblArrow:hover {
 
 a.moreButton {
 	display: inline-block;
+	vertical-align:top;
 	margin-left: 4px;
 	width: 77px;
 	height: 31px;
