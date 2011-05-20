@@ -15,7 +15,8 @@ $(document).ready(function(){
 	});
 	
 	function onBefore() { 
-	    $('#client-quotes').height($(this).height()); 
+		var newHeight = $(this).height();
+	    $('#client-quotes').animate({"height": newHeight}, "slow"); 
 	};
 	
 });
