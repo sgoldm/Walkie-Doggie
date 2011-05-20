@@ -260,8 +260,9 @@ body {margin: 0 5px;}
 
 #main {
 	background: #80CD3E;
-	padding-top: 20px;
 }
+
+#main h1 {margin-top: 10px;}
 /*
  * Media queries for responsive design https://github.com/shichuan/mobile-html5-boilerplate/wiki/The-Style
  */
