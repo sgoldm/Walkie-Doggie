@@ -184,7 +184,7 @@ textarea.contenteditable {-webkit-appearance: none;}
 
 body {margin: 0 5px;}
 
-#bumper, #rail { display: none; }
+#bumper, #rail, #printPDF { display: none; }
 
 #rail {
 	width: 0;
@@ -245,6 +245,7 @@ body {margin: 0 5px;}
 #mainNav li:first {margin: 0;}
 #content {clear: both;}
 #main {	background: #80cd3e url(/images/hill.gif) no-repeat center 0;}
+
 #content h1 { display: block; height: 42px; text-indent: -9999em; overflow: hidden; margin-bottom: 10px;}
 .services #content h1 { background: url(/images/services-and-rates.gif) no-repeat 0 0; width: 288px;}
 .request #content h1 { background: url(/images/request-services.gif) no-repeat 0 0; width: 282px;}

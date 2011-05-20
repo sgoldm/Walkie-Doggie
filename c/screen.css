@@ -297,7 +297,7 @@ ol li {
 
 /* @group Mobile-Undo */
 
-#bumper, #rail { display: block;}
+#bumper, #rail, #printPDF { display: block;}
 
 /* @end */
 
