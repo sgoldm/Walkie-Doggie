@@ -9,7 +9,14 @@ $(document).ready(function(){
 	}
 
 	
-	$('#client-quotes').cycle();
+	$('#client-quotes').cycle({
+		speed: 2000,
+		before: onBefore
+	});
+	
+	function onBefore() { 
+	    $('#client-quotes').height(this.height()); 
+	};
 	
 });
 
