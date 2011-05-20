@@ -32,7 +32,7 @@ $desc = "Set up a visit with Walkie Doggie &amp; Pet Sitter Company today to lea
 		</div>
 		<h2 class="ir" id="initial-visit-form">Initial Visit Request Form</h2>
 		<p>Please fill out the information below and we will get back to you within 24 hours regarding our pet sitting and dog walking services.</p>
-		<form action="/request-services/request_services.php" method="post" accept-charset="utf-8" class="cf">
+		<form action="/request-services/request_services.php" method="post" accept-charset="utf-8">
 			
 			<label>*First Name:</label><input class="text" type="text" name="first_name" value="" id="first_name" tabindex="1">
 			<label>*Last Name:</label><input class="text" type="text" name="last_name" value="" id="last_name" tabindex="2">
