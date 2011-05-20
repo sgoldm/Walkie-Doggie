@@ -294,9 +294,15 @@ ol li {
 
 /* @end */
 
+/* @group Mobile-Undo */
+
+#bumper, #rail { display: block;}
+
+/* @end */
+
 /* @group Layout */
 
-#bumper {height:20px; width:100%; background:#fff !important;}
+#bumper {height:20px; width:100%; background:#fff !important; }
 
 #page {
 	width: 940px;
@@ -329,6 +335,9 @@ ol li {
 	position: absolute;
 	top: 40px;
 	left: 0;
+	background: url(/images/logo.gif) no-repeat 0 0;
+	width: 371px; 
+	height: 122px;
 }
 
 #contactInfo {
