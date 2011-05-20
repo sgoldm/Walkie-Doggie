@@ -8,7 +8,6 @@ $(document).ready(function(){
 		$("body").css("background-position", "-805px 20px");
 	}
 
-	
 	$('#client-quotes').cycle({
 		speed: 500,
 		timeout: 4000,
