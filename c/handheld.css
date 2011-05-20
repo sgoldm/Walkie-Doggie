@@ -252,7 +252,7 @@ a:hover {
 	display: inline;
 	margin-left: 10px;
 }
-#mainNav li:first-child {margin: 0;}
+#mainNav li:first-child {margin-left: 5px;}
 #content {clear: both;}
 #main {	padding: 10px 5px;}
 
