@@ -321,7 +321,6 @@ ol li {
 	padding-top: 40px;
 }
 
-
 /* @end */
 
 /* @group Header */
@@ -463,8 +462,9 @@ a.moreButton:hover { background-position: 0 -31px; }
 
 #rail.photo { 
 	margin-top: 70px; 
-	margin-right: 52px;
 }
+
+#rail.photo + #content {float: right; margin-right: 20px;}
 
 #requestServices {
 	height: 118px;
