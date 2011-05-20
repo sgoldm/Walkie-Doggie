@@ -26,11 +26,16 @@
   <link rel="shortcut icon" href="/favicon.ico">
   <!-- <link rel="apple-touch-icon" href="/apple-touch-icon.png"> -->
 
-
-  <!-- CSS : implied media="all" -->
-  <link rel="stylesheet" href="/c/screen.css">
-
-  <link rel="stylesheet" media="handheld" href="/c/handheld.css">  
+	<!-- Mobile device detection by Bushido Designs: BushidoDesigns.net -->
+	<link rel="stylesheet" type="text/css" href="/c/handheld.css"  />
+	<style type="text/css" media="screen and (min-width: 481px)">
+	<!--
+	@import url("/c/screen.css");
+	-->
+	</style>
+	<!--[if IE]><link rel="stylesheet" type="text/css" href="/c/screen.css"  media="screen" /><![endif]-->
+	<link href="/c/handheld.css" rel="stylesheet" type="text/css" media="handheld, only screen and (max-device-width: 480px)" />
+	
  
   <!-- All JavaScript at the bottom, except for Modernizr which enables HTML5 elements & feature detects -->
   <script src="/js/modernizr-1.5.min.js"></script>
