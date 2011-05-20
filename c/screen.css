@@ -426,12 +426,11 @@ a.dblArrow:hover {
 }
 
 a.moreButton {
-	float: right;
+	display: inline-block;
 	margin-left: 4px;
 	width: 77px;
 	height: 31px;
 	background: url(/images/more_btn.gif) no-repeat 0 0;
-	margin-right: 76px;
 }
 
 a.moreButton:hover { background-position: 0 -31px; }
