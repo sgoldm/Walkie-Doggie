@@ -257,7 +257,7 @@ a:hover {
 #content {clear: both;}
 #main {	background: #80cd3e; padding: 10px 5px;}
 
-#content h1 { display: block; height: 42px; text-indent: -9999em; overflow: hidden; margin-bottom: 10px;}
+#content h1 { display: block; height: 42px; text-indent: -9999em; overflow: hidden; margin: 10px auto;}
 .services #content h1 { background: url(/images/services-and-rates.gif) no-repeat 0 0; width: 288px;}
 .request #content h1 { background: url(/images/request-services.gif) no-repeat 0 0; width: 282px;}
 .why #content h1 { background: url(/images/why-wd.gif) no-repeat 0 0; width: 308px; height:47px;}
