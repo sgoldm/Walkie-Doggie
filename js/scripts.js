@@ -9,7 +9,7 @@ $(document).ready(function(){
 	}
 
 	
-	
+	$('#client-quotes').cycle();
 	
 });
 
