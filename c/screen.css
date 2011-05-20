@@ -327,7 +327,7 @@ ol li {
 	width: 478px;
 	padding-top: 40px;
 }
-#main {background: none;}
+#main {background: none; padding: 0;}
 /* @end */
 
 /* @group Header */
