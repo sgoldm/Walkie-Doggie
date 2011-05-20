@@ -248,6 +248,11 @@ textarea.contenteditable {-webkit-appearance: none;}
 
 #content h1 { font-size: 18px; margin-bottom: 10px;}
 
+a.moreButton {
+	display: inline;
+	text-indent: 0;
+}
+
 #footer {margin: 10px 5px;}
 
 #footer ul, #footer li {
