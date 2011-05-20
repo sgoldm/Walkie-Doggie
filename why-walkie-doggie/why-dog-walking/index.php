@@ -28,11 +28,11 @@
 		
 		<h3 id="dog-walking" class="ir">Dog Walking</h3>
 		
-		<p>Hiring a dog walker is ideal for dogs whose owners work long days or just need extra help for a variety of reasons. Owners who walk or have their dogs walked recognize and value what exercising brings to their dogs.</p>
+		<p>Hiring a dog walker is ideal for dogs whose owners work long days or just need extra help for a variety of reasons. Owners who walk or hire a dog walker recognize and value what exercising brings to their dogs.</p>
 
 		<p>Did you know that dog obesity is one of the fastest growing health conditions in animals? Last year the Association for Pet Obesity Prevention reported that 45 percent of dogs (ALMOST ONE OUT OF TWO) and 58% of cats were classified as overweight or obese by their vets. This equals almost 90 million pets at risk for developing diseases such as arthritis, diabetes, high blood pressure, kidney and respiratory disease and many forms of cancer.</p>
 
-		<p>Walking your dog is one of the best ways to prevent behavior problems. At least two walks daily help prevent elimination problems, destructiveness, separation anxiety, and other common behavior disorders.</p>
+		<p>Dog walking is one of the best ways to prevent behavior problems. At least two dog walks daily help prevent elimination problems, destructiveness, separation anxiety, and other common behavior disorders.</p>
 		
 		
 		

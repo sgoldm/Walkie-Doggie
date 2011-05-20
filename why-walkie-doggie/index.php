@@ -25,7 +25,7 @@
 	
 	<div id="content">
 			<h1>Why Walkie Doggie</h1>
-			<p>Our goal is to provide you with the utmost assurance that you can trust us and our services. We love and take great pride in what we do and can't wait to become friends with your pet. Here is why people trust Walkie Doggie for their dog walking and pet sitting needs:</p>
+			<p>Our goal is to provide you with the utmost assurance that you can trust us and our dog walker and pet sitter services. We love and take great pride in what we do and can't wait to become friends with your pet. Here is why people trust Walkie Doggie for their dog walking and pet sitting needs:</p>
 		<div class="inset">
 		<ul class="bullets white plainLink">
 			<li><h3><a href="#why01">We have pets too!</a></h3></li>
@@ -44,43 +44,43 @@
 		<a href="#header" class="toTop">[back to top]</a><br/><br/></p>
 		
 		<h3 id="why02" class="ir">100% Guaranteed Satisfaction</h3>
-		<p>If for any reason you are not satisfied with our services, we will never charge you. We recognize that you have many options with other service providers and thus we work very hard to ensure you are getting what you pay for.
+		<p>If for any reason you are not satisfied with our dog walking and pet sitting services, we will never charge you. We recognize that you have many options with other dog walker and pet sitter service providers and thus we work very hard to ensure you are getting what you pay for.
 		<br/><a href="#header" class="toTop">[back to top]</a><br/><br/></p>
 		
 		<h3 id="why03" class="ir">Pet CPR Certified</h3>
 		<a href="/images/FirstAidCard.jpg" class="rightWrap cpr plainLink"><img src="/images/cpr-cert.gif" alt="American Red Cross Certified: Pet First Aid/CPR" width="99" height="51"><br/><span>View Certificate</span></a>
-		<p>To insure the safety of your pet, we are Pet First Aid Certified through the American Red Cross and we are equipped with Pet Care Services Association (PCSA) approved First Aid supplies. <a class="larger black underlined cpr" href="/images/FirstAidCard.jpg"><b>View our certification here.</b></a> The likelihood that we will ever have to perform CPR on your pet is certainly not great, but we are prepared just in case. 
+		<p>To insure the safety of your pet, we are Pet First Aid Certified through the American Red Cross and we are equipped with Pet Care Services Association (PCSA) approved First Aid supplies. <a class="larger black underlined cpr" href="/images/FirstAidCard.jpg"><b>View our certification here.</b></a> The likelihood that we will ever have to perform CPR on your pet is certainly not great while dog walking or pet sitting, but we are prepared just in case. 
 		<br/><a href="#header" class="toTop">[back to top]</a><br/><br/></p>
 		
 		
 		<img class="rightWrap" src="/images/calendar.gif" alt="calendar" width="118" height="121">
 		<h3 id="why04" class="ir">We are here for you year round</h3>
-		<p>We are here for you and your pet year round &mdash; 365 days a year, 7 days a week, 24 hours a day. We ask that you give us at least 48 hours notice, especially around the holidays, but we also recognize that things come up last minute so we will always try our best.
+		<p>We are here for you and your pet year round with our dog walking and pet sitting services &mdash; 365 days a year, 7 days a week, 24 hours a day. We ask that you give us at least 48 hours notice, especially around the holidays, but we also recognize that things come up last minute so we will always try our best.
 		<br/><a href="#header" class="toTop">[back to top]</a><br/><br/></p>
 		
 		<h3 id="why05" class="ir">No Charge Initial Visit</h3>
 		<p>Our initial visit is absolutely FREE and our initial visit usually takes NO MORE than 30 minutes.</p>
 		<div class="inset">
 			<h3 id="why06" class="ir">You and your pets must love us!</h3>
-			<p>We want to meet your pets and for you to observe your pets' comfort level and reaction to us.  We want you to see our passion and energy for what we do and our love for pets.</p>
+			<p>We want to meet your pets and for you to observe your pets' comfort level and reaction to us.  We want you to see our passion and energy for dog walking and pet sitting and our love for pets.</p>
 
 			<h3 id="why07" class="ir">Learn about your pets</h3>
 			<p>What are your pet(s) names? What are their eating habits and where will we find their food and supplies? What are their individual needs and who is your veterinarian in case of an emergency?</p>
 
 			<h3 id="why08" class="ir">Obtain clear understanding of assignment</h3>
-			<p>We need to know exactly what you would like for us to do. Do we have to provide any medications and where do we find? We understand there are many details that you and your pet(s) require and we do not want to miss one.</p>
+			<p>We need to know exactly what you would like for us to do while dog walking or pet sitting for your pet. Do we have to provide any medications and where do we find? We understand there are many details that you and your pet(s) require and we do not want to miss one.</p>
 
 			<h3 id="why09" class="ir">Review our safety standards</h3>
-			<p>We take great pride in our safety standards to ensure your pet(s) are safe in our hands. We will review with you how we take care of your home when you are gone to help prevent people from knowing you are gone and how we ensure the safety of your dog on our walks.</p> 
+			<p>We take great pride in our safety standards to ensure your pet(s) are safe in our hands. We will review with you how we take care of your home when you are gone to help prevent people from knowing you are gone and how we ensure the safety of your pet while walking your dog or pet sitting.</p> 
 
 			<h3 id="why10" class="ir">Review our service agreement</h3>
-			<p>There are a number of details that we outline in our simple service agreement. We will review with you our pricing, outlining services you are requesting, putting in writing our 100% guaranteed satisfaction and our confidentiality. No one enjoys surprises and a simple agreement in writing will help us prevent. <a href="/service-agreement/">View our service agreement here.</a>
+			<p>There are a number of details that we outline in our simple dog walker and pet sitter service agreement. We will review with you our pricing, outlining services you are requesting, putting in writing our 100% guaranteed satisfaction and our confidentiality. No one enjoys surprises and a simple agreement in writing will help us prevent. <a href="/service-agreement/">View our service agreement here.</a>
 			<br/><a href="#header" class="toTop">[back to top]</a><br/><br/></p>
 		</div>
 		
 		<h3 class="ir" id="why11">Insured and Bonded</h3>
 		<p>We are insured, proof of bonding (you never have to worry, but again for additional peace of mind if anything was ever stolen, etc. you would be covered).
-		<br/><a href="#"><b class="small">View our certification here.</b></a>
+		<br/><a href="/pdfs/WalkieDoggieInsuranceCertificate.pdf" target="_blank"><b class="small">View our certification here.</b></a>
 		<br/><a href="#header" class="toTop">[back to top]</a><br/><br/></p>
 
 

@@ -11,10 +11,10 @@
 	<div id="content">
 		<h1>Request Services</h1>
 		<h2 class="ir" id="initial-visit">Initial Visit</h2>
-		<p class="larger">We want to make sure you and your pet(s) love us! We also want to meet and learn about your pet(s), obtain a clear understanding of your requests, review our safety standards and <a href="/service-agreement/">service agreement</a> at no cost to you. You can expect this meeting to usually last no more than 30 minutes.</p>
+		<p class="larger">We want to make sure you and your pet(s) love us! We also want to meet and learn about your pet(s), obtain a clear understanding of your requests, review our safety standards and <a href="/service-agreement/">pet sitter and dog walker service agreement</a> at no cost to you. You can expect this meeting to usually last no more than 30 minutes.</p>
 		<div class="inset">
 			<h3 class="ir" id="initial-how-to">How to Set up an Initial Visit:</h3>
-			<p>You can request an initial visit in one or more ways -</p>
+			<p>You can request an initial visit for our dog walking and pet sitting services in one or more ways -</p>
 			<ul>
 			<li>Call us at <strong>(812) 568-5051</strong></li>
 			<li>Email us at <strong><a href="mailto:info@walkiedoggie.com">info@walkiedoggie.com</a></strong></li>
@@ -22,7 +22,7 @@
 			we will contact you shortly about your request.</li></ul>
 		</div>
 		<h2 class="ir" id="initial-visit-form">Initial Visit Request Form</h2>
-		<p>Please fill out the information below and we will get back to you within 24 hours.</p>
+		<p>Please fill out the information below and we will get back to you within 24 hours regarding our pet sitting and dog walking services.</p>
 		<form action="/request-services/request_services.php" method="post" accept-charset="utf-8" class="cf">
 			
 			<label>*First Name:</label><input class="text" type="text" name="first_name" value="" id="first_name" tabindex="1">
