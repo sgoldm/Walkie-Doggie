@@ -147,7 +147,7 @@ button {  width: auto; overflow: visible; }
 .iem7 img { -ms-interpolation-mode: bicubic; }
 
 
-
+.ir { display:block; text-indent:-9999em; overflow:hidden; background-repeat: no-repeat; }
 
 /* 
  * Helper classes 
