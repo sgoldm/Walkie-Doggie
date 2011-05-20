@@ -596,7 +596,7 @@ h3#initial-how-to + p {margin:0;}
 }
 
 .request #psi-badge {
-	margin: 100px auto 0;
+	/*margin: 100px auto 0;*/
 }
 
 .why #psi-badge {

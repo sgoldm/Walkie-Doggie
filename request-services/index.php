@@ -14,7 +14,7 @@ $desc = "Set up a visit with Walkie Doggie &amp; Pet Sitter Company today to lea
 	
 	<div id="rail" class="photo">
 		<img src="/images/photos/patti-walk.jpg" alt="Patti looks forward to her walk every day!" width="385" height="485">
-		<!-- <a href="#" class="ir" id="psi-badge">Pet Sitters International</a> -->
+		<a href="#" class="ir" id="psi-badge">Pet Sitters International</a>
 	</div>
 	
 	<div id="content">
