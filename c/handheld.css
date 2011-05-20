@@ -181,6 +181,9 @@ textarea.contenteditable {-webkit-appearance: none;}
 /* Primary Styles for mobile
    Author:
 */
+
+body {margin: 0 5px;}
+
 #bumper, #rail { display: none; }
 
 
@@ -196,7 +199,33 @@ textarea.contenteditable {-webkit-appearance: none;}
 	height: 64px;
 }
 
+#contactInfo {
+	height: 25px;
+	margin: 0 auto 10px;
+	float: left;
+}
 
+#emailLink {
+	display: block;
+	float: left;
+	text-indent: -9999em;
+	overflow: hidden;
+	background: url(/images/contact_email.gif) no-repeat 0 0;
+	width: 146px;
+	height: 21px;
+	margin-bottom: 4px;
+}
+
+#phone {
+	display: block;
+	float: left;
+	text-indent: -9999em;
+	overflow: hidden;
+	background: url(/images/contact_phone.gif) no-repeat 0 0;
+	width: 87px;
+	height: 17px;
+	margin-left: 10px;
+}
 /*
  * Media queries for responsive design https://github.com/shichuan/mobile-html5-boilerplate/wiki/The-Style
  */

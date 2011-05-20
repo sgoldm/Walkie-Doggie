@@ -209,6 +209,7 @@ body {
 	background: #80cd3e url(/images/hill.gif) no-repeat center 0;
 	text-align: left;
 	color: #2d2d2d;
+	margin: 0;
 }
 
 a {
@@ -346,6 +347,9 @@ ol li {
 	width: 132px;
 	top: 20px;
 	right: 10px;
+	height: auto;
+	float: none;
+	margin: 0;
 }
 
 #emailLink {
@@ -369,6 +373,7 @@ ol li {
 	background: url(/images/contact_phone.gif) no-repeat 0 0;
 	width: 87px;
 	height: 17px;
+	margin: 0;
 }
 
 #mainNav {
