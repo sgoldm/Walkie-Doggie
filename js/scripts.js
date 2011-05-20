@@ -13,7 +13,7 @@ $(document).ready(function(){
 		timeout: 4000,
 		before: onBefore,
 		sync: 0,
-		cssBefore: {width:auto}
+		cssBefore: {'width':'auto'}
 	});
 	
 	function onBefore() { 
