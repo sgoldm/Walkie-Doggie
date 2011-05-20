@@ -9,7 +9,12 @@ $desc = "Walkie Doggie is a dog walking and pet sitting company in Evansville, I
 ?>
 
 <?php include "c/pagestart.html" ?>
-<link rel="stylesheet" href="/c/home.css">
+<style type="text/css" media="screen and (min-width: 481px)">
+<!--
+@import url("/c/home.css");
+-->
+</style>
+<!--[if IE]><link rel="stylesheet" type="text/css" href="/c/home.css"  media="screen" /><![endif]-->
 </head>
 <body class="home">
 <?php include "c/bodystart.html" ?>	
