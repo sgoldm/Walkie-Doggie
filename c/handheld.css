@@ -185,6 +185,17 @@ textarea.contenteditable {-webkit-appearance: none;}
 
 #bumper, #rail, #printPDF { display: none; }
 
+a {
+	color: #fff;
+	text-decoration: underline;
+}
+
+a:hover {
+	text-decoration: underline;
+	cursor: pointer;
+	color: #fff;
+}
+
 #rail {
 	width: 0;
 	height: 0;
