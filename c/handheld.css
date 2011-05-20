@@ -233,6 +233,16 @@ body {margin: 0 5px;}
 	padding-top: 0;
 }
 
+#mainNav {
+	display: block;
+	width: 100%;
+}
+#mainNav li {
+	display: block;
+	margin-left: 10px;
+	float: left;
+}
+
 /*
  * Media queries for responsive design https://github.com/shichuan/mobile-html5-boilerplate/wiki/The-Style
  */
