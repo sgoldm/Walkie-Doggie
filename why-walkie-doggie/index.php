@@ -23,7 +23,7 @@ $desc = "Our goal is to provide you with the utmost assurance that you can trust
 				<h3 class="ir">What our clients are saying</h3>
 				
 				<div id="client-quotes">
-					<!-- Add each testimonial here... Should try to stay under 200 characters -->
+					<!-- Add each testimonial here -->
 					<div>&quot;Walkie Doggie made my dog feel right at home! I plan on using them every time my family goes out of town!&quot;</div>
 					<div>&quot;Blah blah blah test quote&quot;</div>
 					<div>&quot;This is another fake testimonial&quot;</div>
