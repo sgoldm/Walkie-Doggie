@@ -636,7 +636,7 @@ ul.bullets {
 #clients-content h4 {font-size:11px; color:#2d2d2d; text-align:center; margin:20px 0;}
 #clients-content p {padding-left:3px;}
 #clients-content #client-quotes {padding:0 21px; font-size:14px;}
-#clients-content #client-quotes div {background: #d1d1d1;}
+#clients-content #client-quotes div {background: #d1d1d1; width:100%;}
 
 .smallPhoto {margin:10px 0 0;}
 .smallPhoto.left {margin-right:5px;}
