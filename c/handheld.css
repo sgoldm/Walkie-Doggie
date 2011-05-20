@@ -253,6 +253,7 @@ textarea.contenteditable {-webkit-appearance: none;}
 .whypetsitting #content h1 { background: url(/images/why-pet-sitting.gif) no-repeat 0 0; width: 483px; height:45px;}
 .serviceagreement #content h1 { background: url(/images/service-agreement.gif) no-repeat 0 0; width: 317px; height:45px;}
 
+#footer {margin: 10px 5px;}
 
 #footer ul, #footer li {
 	list-style-type: none;
