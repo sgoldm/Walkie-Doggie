@@ -14,10 +14,10 @@ $desc = "Set up a visit with Walkie Doggie &amp; Pet Sitter Company today to lea
 	
 	<div id="rail" class="photo">
 		<img src="/images/photos/patti-walk.jpg" alt="Patti looks forward to her walk every day!" width="385" height="485">
-		<a href="#" class="ir" id="psi-badge">Pet Sitters International</a>
+		<!-- <a href="#" class="ir" id="psi-badge">Pet Sitters International</a> -->
 	</div>
 	
-	<!-- <div id="content">
+	<div id="content">
 		<h1>Request Services</h1>
 		<h2 class="ir" id="initial-visit">Initial Visit</h2>
 		<p class="larger">We want to make sure you and your pet(s) love us! We also want to meet and learn about your pet(s), obtain a clear understanding of your requests, review our safety standards and <a href="/service-agreement/">pet sitter and dog walker service agreement</a> at no cost to you. You can expect this meeting to usually last no more than 30 minutes.</p>
@@ -41,7 +41,7 @@ $desc = "Set up a visit with Walkie Doggie &amp; Pet Sitter Company today to lea
 			
 			<label>State:</label>
 			<select name="state" id="state" size="1" tabindex="5">
-				--><!-- <option value="AL">Alabama</option>
+				<!-- <option value="AL">Alabama</option>
                 <option value="AK">Alaska</option>
                 <option value="AZ">Arizona</option>
                 <option value="AR">Arkansas</option>
@@ -55,7 +55,7 @@ $desc = "Set up a visit with Walkie Doggie &amp; Pet Sitter Company today to lea
                 <option value="HI">Hawaii</option>
                 <option value="ID">Idaho</option>
                 <option value="IL">Illinois</option> -->
-                <!-- <option value="IN">Indiana</option> -->
+                <option value="IN">Indiana</option>
                 <!-- <option value="IA">Iowa</option>
                 <option value="KS">Kansas</option>
                 <option value="KY">Kentucky</option>
@@ -92,7 +92,7 @@ $desc = "Set up a visit with Walkie Doggie &amp; Pet Sitter Company today to lea
                 <option value="WV">West Virginia</option>
                 <option value="WI">Wisconsin</option>
                 <option value="WY">Wyoming</option> -->
-			<!-- </select>
+			</select>
 					
 					<label>Zip:</label><input class="text" type="text" name="zip" value="" id="zip" tabindex="6">
 					<label>Phone One:</label><input class="text" type="text" name="phone1" value="" id="phone1" tabindex="7">
@@ -127,6 +127,6 @@ $desc = "Set up a visit with Walkie Doggie &amp; Pet Sitter Company today to lea
 					<p><input type="submit" value="submit" id="submit"></p>
 				</form>
 				
-			</div> -->
+			</div> 
 		
 <?php include "../c/pageend.html" ?>
