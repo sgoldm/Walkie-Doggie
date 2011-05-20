@@ -382,6 +382,8 @@ ol li {
 	position: absolute;
 	right: 42px;
 	top: 132px;
+	width: auto;
+	float: none;
 }
 
 #mainNav li {
