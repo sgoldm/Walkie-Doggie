@@ -243,7 +243,7 @@ textarea.contenteditable {-webkit-appearance: none;}
 }
 #mainNav li:first {margin: 0;}
 #content {clear: both;}
-#main {	background: #80cd3e; padding: 0 5px;}
+#main {	background: #80cd3e; padding: 10px 5px;}
 
 #content h1 { display: block; height: 42px; text-indent: -9999em; overflow: hidden; margin-bottom: 10px;}
 .services #content h1 { background: url(/images/services-and-rates.gif) no-repeat 0 0; width: 288px;}
