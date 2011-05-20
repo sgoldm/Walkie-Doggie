@@ -242,6 +242,7 @@ body {margin: 0 5px;}
 	margin-left: 10px;
 	float: left;
 }
+#content {clear: both;}
 
 /*
  * Media queries for responsive design https://github.com/shichuan/mobile-html5-boilerplate/wiki/The-Style
