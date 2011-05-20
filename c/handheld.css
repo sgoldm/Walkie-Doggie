@@ -201,8 +201,6 @@ body {margin: 0 5px;}
 
 #contactInfo {
 	height: 25px;
-	margin: 0 auto 10px;
-	float: left;
 }
 
 #emailLink {
@@ -218,13 +216,12 @@ body {margin: 0 5px;}
 
 #phone {
 	display: block;
-	float: left;
+	float: right;
 	text-indent: -9999em;
 	overflow: hidden;
 	background: url(/images/contact_phone.gif) no-repeat 0 0;
 	width: 87px;
 	height: 17px;
-	margin-left: 10px;
 }
 /*
  * Media queries for responsive design https://github.com/shichuan/mobile-html5-boilerplate/wiki/The-Style
