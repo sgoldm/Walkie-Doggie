@@ -186,6 +186,11 @@ body {margin: 0 5px;}
 
 #bumper, #rail { display: none; }
 
+#rail {
+	width: 0;
+	height: 0;
+	float: none;
+}
 
 #header {
 	height: 80px;
