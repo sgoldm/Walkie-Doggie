@@ -234,8 +234,11 @@ a:hover {
 #phone {
 	display: block;
 	float: right;
-	color: #434343 !important;
 	font-size: 14px;
+}
+
+#phone a {
+	color: #434343;
 }
 
 #content {
