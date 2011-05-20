@@ -242,6 +242,7 @@ body {margin: 0 5px;}
 	margin-left: 10px;
 	float: left;
 }
+#mainNav li:first {margin: 0;}
 #content {clear: both;}
 
 /*
