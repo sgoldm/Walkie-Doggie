@@ -222,6 +222,45 @@ body {margin: 0 5px;}
 	color: #434343 !important;
 	font-size: 14px;
 }
+
+#mainNav {
+	position: absolute;
+	right: 42px;
+	top: 132px;
+}
+
+#mainNav li {
+	display: block;
+	margin-left: 29px;
+	float: left;
+}
+
+#mainNav a {
+	display: block;
+	text-indent: -9999em;
+	overflow: hidden;
+	background: url(/images/main_nav.gif) no-repeat 0 0;
+	height: 43px;
+}
+
+#services a { width: 119px;}
+#request a { width: 120px; background-position: -145px 0;}
+#why a { width: 56px; background-position: -290px 0;}
+#contact a { width: 76px; background-position: -367px 0;}
+
+#services a:hover { background-position: 0 -43px;}
+#request a:hover { background-position: -145px -43px;}
+#why a:hover { background-position: -290px -43px;}
+#contact a:hover { background-position: -367px -43px;}
+
+.services #services a { background-position: 0 -86px;}
+.request #request a { background-position: -145px -86px;}
+.why #why a { background-position: -290px -86px;}
+.contact #contact a { background-position: -367px -86px;}
+
+#main {
+	background: #80CD3E;
+}
 /*
  * Media queries for responsive design https://github.com/shichuan/mobile-html5-boilerplate/wiki/The-Style
  */
