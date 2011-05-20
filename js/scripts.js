@@ -15,7 +15,7 @@ $(document).ready(function(){
 	});
 	
 	function onBefore() { 
-	    $('#client-quotes').height(this.height()); 
+	    $('#client-quotes').height($(this).height()); 
 	};
 	
 });
