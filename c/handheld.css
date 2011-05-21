@@ -262,7 +262,7 @@ a:hover {
 #content {clear: both;}
 #main {	padding: 10px 5px;}
 
-#content h1 { font-size: 18px; margin-bottom: 10px;}
+#content h1 { font-size: 18px; margin-bottom: 10px; font-weight: bold;}
 
 #who {margin-bottom: 10px;}
 
@@ -272,9 +272,9 @@ a.moreButton {
 	text-indent: 0;
 }
 
-.services h3 { font-size: 14px; font-weight: bold; margin-top: 10px;}
-.services p + h2 {margin-top:25px;}
-.services h2 {font-size: 16px; font-weight: bold; }
+h3 { font-size: 14px; font-weight: bold; margin-top: 10px;}
+p + h2 {margin-top:25px;}
+h2 {font-size: 16px; font-weight: bold; }
 
 #footer {margin: 10px 5px; border-top: 2px dashed #80cd3e; padding-top: 20px;}
 

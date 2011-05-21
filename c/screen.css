@@ -254,12 +254,13 @@ h2 {
 	color: #fff;
 	margin-bottom: 10px;
 }
-
+p + h2 {margin-top:0;}
 h3 {
 	font-size: 14px;
 	font-weight: bold;
 	color: #fff;
 	margin-bottom: 5px;
+	margin-top: 0;
 }
 
 h4 {
