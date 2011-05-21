@@ -573,7 +573,7 @@ h2#initial-visit-form {background:url(/images/initial-visit-form.gif) no-repeat 
 .request ul {list-style-type:disc; padding-left:15px;}
 h3#initial-how-to + p {margin:0;}
 
-.services h3 {display:block; text-indent:-9999px; overflow:hidden; width:478px; height:22px; background-position:0 0; background-repeat: no-repeat;}
+.services h3 {display:block; text-indent:-9999px; overflow:hidden; width:478px; height:22px; background-position:0 0; background-repeat: no-repeat; margin: 0;}
 .services p + h2 {margin-top:25px;}
 .services h2 {height: 60px; width: 153px; background-position:0 0;}
 .services h2#ourservices {background-image:url(/images/our-services.gif);}

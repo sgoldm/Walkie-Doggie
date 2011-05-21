@@ -147,7 +147,6 @@ button {  width: auto; overflow: visible; }
 .iem7 img { -ms-interpolation-mode: bicubic; }
 
 
-.ir { display:block; text-indent:-9999em; overflow:hidden; background-repeat: no-repeat; }
 
 /* 
  * Helper classes 
@@ -210,6 +209,9 @@ a:hover {
 	background: url(/images/logo-mobile.gif) no-repeat 0 0;
 	width: 183px; 
 	height: 64px;
+	display:block; 
+	text-indent:-9999em; 
+	overflow:hidden; 
 }
 
 #contactInfo {
@@ -269,6 +271,10 @@ a.moreButton {
 	display: inline;
 	text-indent: 0;
 }
+
+.services h3 { font-size: 14px; font-weight: bold; margin-top: 10px;}
+.services p + h2 {margin-top:25px;}
+.services h2 {font-size: 16px; font-weight: bold; }
 
 #footer {margin: 10px 5px; border-top: 2px dashed #80cd3e; padding-top: 20px;}
 
