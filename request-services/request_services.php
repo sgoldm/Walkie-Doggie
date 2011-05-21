@@ -80,8 +80,7 @@ else
 	$headers .= "Content-type: text/html; charset=iso-8859-1" . "\r\n";
 	
 	// Additional headers
-	//$headers .= "To: Walkie Doggie <info@walkiedoggie.com>" . "\r\n";
-	$from = "From: Walkie Doggie Site <info@walkiedoggie.com>";
+	$from = "From: Walkie Doggie Site <no-reply@walkiedoggie.com>";
 	
 	$message = "<font face='Arial, Verdana, Helvetica, sans-serif' pointsize='9'>";
 	$message .= "---------------------------------------------<br>
@@ -123,7 +122,7 @@ else
 	
 	$headers .= $from;
 	
-	mail("sarahrgoldman@gmail.com","Request for Services",$message,$headers);
+	mail("info@walkiedoggie.com","Request for Services",$message,$headers);
 	
 	header('Location: /request-services/thank-you/');
 
