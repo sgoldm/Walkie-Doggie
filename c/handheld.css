@@ -192,7 +192,7 @@ a:hover {
 	color: #434343;
 }
 
-#bumper, #rail, #printPDF { display: none; }
+#bumper, #rail { display: none; }
 
 #rail {
 	width: 0;
