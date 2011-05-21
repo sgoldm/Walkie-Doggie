@@ -48,10 +48,10 @@ else
 
 				 Heard about WD from:			" . $_POST["heard_from"] . "<br>";
 
-	// $from = urldecode($from);
-	// if (eregi("\r",$from) || eregi("\n",$from)){
-	// 	die("Spammer detected");
-	// }
+	$from = urldecode($from);
+	if (eregi("\r",$from) || eregi("\n",$from)){
+		die("Spammer detected");
+	}
 	
 	$headers .= $from;
 	
