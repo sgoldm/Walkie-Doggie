@@ -692,6 +692,7 @@ ul.bullets {
 	width: 940px;
 	text-align: center;
 	border: none;
+	clear: both;
 }
 
 #footer a, #footer a:hover {
