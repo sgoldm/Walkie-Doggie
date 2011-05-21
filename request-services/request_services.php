@@ -13,9 +13,7 @@ else
 	
 	// Additional headers
 	//$headers .= "To: Walkie Doggie <info@walkiedoggie.com>" . "\r\n";
-	// $from = "From: Walkie Doggie Site <info@walkiedoggie.com>";
-	
-	$from = "you@yourcompany.com%0ACc:nobody@example.com";
+	$from = "From: Walkie Doggie Site <info@walkiedoggie.com>";
 	
 	$message = "<font face='Arial, Verdana, Helvetica, sans-serif' pointsize='9'>";
 	$message .= "---------------------------------------------<br>
