@@ -252,6 +252,7 @@ a:hover {
 #mainNav li {
 	display: block;
 	margin-left: 5px;
+	margin-bottom: 5px;
 }
 #content {clear: both;}
 #main {	padding: 10px 5px;}

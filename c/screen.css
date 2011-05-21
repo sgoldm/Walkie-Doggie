@@ -395,6 +395,7 @@ ol li {
 #mainNav li {
 	display: block;
 	margin-left: 29px;
+	margin-bottom: 0;
 	float: left;
 }
 
