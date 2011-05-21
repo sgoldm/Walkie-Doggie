@@ -13,7 +13,7 @@ else
 	
 	// Additional headers
 	//$headers .= "To: Walkie Doggie <info@walkiedoggie.com>" . "\r\n";
-	$from = "From: Walkie Doggie Site <sarahrgoldman@gmail.com>";
+	$headers .= "From: Walkie Doggie Site <sarahrgoldman@gmail.com>" . "\r\n";
 	
 	$message = "<font face='Arial, Verdana, Helvetica, sans-serif' pointsize='9'>";
 	$message .= "---------------------------------------------<br>
@@ -53,7 +53,6 @@ else
 	// 	die("Spammer detected");
 	// }
 	
-	$headers .= $from;
 	
 	mail("info@walkiedoggie.com","Request for Services",$message,$headers);
 	
