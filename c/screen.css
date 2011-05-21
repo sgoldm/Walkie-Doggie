@@ -386,6 +386,9 @@ ol li {
 	top: 132px;
 	width: auto;
 	float: none;
+	margin: 0;
+	padding: 0;
+	border: none;
 }
 
 #mainNav li {
@@ -686,6 +689,7 @@ ul.bullets {
 	padding: 20px 0 30px;
 	width: 940px;
 	text-align: center;
+	border: none;
 }
 
 #footer a, #footer a:hover {
