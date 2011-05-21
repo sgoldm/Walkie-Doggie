@@ -27,7 +27,7 @@ $desc = "Walkie Doggie &amp; Pet Sitter Company is dedicated to providing second
 	<div id="content">
 			<h1>Services and Rates</h1>
 			<div id="printPDF">
-				<a href="/pdfs/WalkieDoggieServicesAndPrices.pdf" target="_blank" class="picket">View Printer Friendly PDF</a>
+				<a href="/pdfs/WalkieDoggieServicesAndPricing.pdf" target="_blank" class="picket">View Printer Friendly PDF</a>
 			</div>
 			<h2 id="ourservices" class="ir">Our Services</h2>
 			
