@@ -290,6 +290,7 @@ textarea { border: solid 2px #bbb; padding: 4px; border-radius: 6px; -moz-border
 
 input.text:focus, textarea:focus { border-color: #444;}
 
+#content.thankyou {height:auto;}
 
 #footer {margin: 10px 5px; border-top: 2px dashed #80cd3e; padding-top: 20px;}
 

@@ -20,24 +20,6 @@ $desc = "Thanks for your interest in Walkie Doggie &amp; Pet Sitter Company. We 
 		<h1>Request Services</h1>
 		<h2>Thank You!</h2>
 		<p class="larger">Your request has been sent.</p>
-		<p class="spacer">&nbsp;</p>
-		<p class="spacer">&nbsp;</p>
-		<p class="spacer">&nbsp;</p>
-		<p class="spacer">&nbsp;</p>
-		<p class="spacer">&nbsp;</p>
-		<p class="spacer">&nbsp;</p>
-		<p class="spacer">&nbsp;</p>
-		<p class="spacer">&nbsp;</p>
-		<p class="spacer">&nbsp;</p>
-		<p class="spacer">&nbsp;</p>
-		<p class="spacer">&nbsp;</p>
-		<p class="spacer">&nbsp;</p>
-		<p class="spacer">&nbsp;</p>
-		<p class="spacer">&nbsp;</p>
-		<p class="spacer">&nbsp;</p>
-		<p class="spacer">&nbsp;</p>
-		<p class="spacer">&nbsp;</p>
-		<p class="spacer">&nbsp;</p>
 	</div>
 		
 <?php include "../../c/pageend.html" ?>
