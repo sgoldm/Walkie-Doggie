@@ -44,8 +44,8 @@ $desc = "Our goal is to provide you with the utmost assurance that you can trust
 			<li><h3><a href="#why01">We have pets too!</a></h3></li>
 			<li><h3><a href="#why02">100% Guaranteed Satisfaction</a></h3></li>
 			<li><h3><a href="#why03">Pet CPR Certified</a></h3></li>
-			<li><h3><a href="#why05">We are here for you year around</a></h3></li>
-			<li><h3><a href="#why06">No charge initial visit</a></h3></li>
+			<li><h3><a href="#why04">We are here for you year around</a></h3></li>
+			<li><h3><a href="#why05">No charge initial visit</a></h3></li>
 			<li><h3><a href="#why11">Insured and bonded</a></h3></li>
 		</ul>
 		</div>
