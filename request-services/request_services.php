@@ -70,7 +70,7 @@ $isEmail = validEmail($_POST["email"]);
 
 if  (strlen($_POST["first_name"]) < 2 || strlen($_POST["last_name"]) < 3 || strlen($_POST["address"]) < 3 || strlen($_POST["city"]) < 3 || $isEmail != true )
 { 
-	echo("Required form fields were not submitted.<br/><br/><a href='/request-services/'>Back</a>");
+	echo("Required form fields were not submitted. Make sure you have entered a valid email address.<br/><br/><a href='/request-services/'>Back</a>");
 }
 else
 {
