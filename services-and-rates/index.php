@@ -70,12 +70,6 @@ $desc = "Walkie Doggie &amp; Pet Sitter Company is dedicated to providing second
 
 			<h3 id="service12">Key Pickup and Return: $15 per occurrence</h3>
 			<p>Ideally we would like to pick up the key on our initial visit and return the key when our visit is complete.  If a special trip is required, an additional travel fee will be charged.</p>
-			<p class="spacer">&nbsp;</p>
-			<p class="spacer">&nbsp;</p>
-			<p class="spacer">&nbsp;</p>
-			<p class="spacer">&nbsp;</p>
-			<p class="spacer">&nbsp;</p>
-			<p class="spacer">&nbsp;</p>
 			
 	</div>
 		
