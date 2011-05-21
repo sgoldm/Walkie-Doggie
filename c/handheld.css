@@ -186,7 +186,7 @@ a:hover {
 	color: #434343;
 }
 
-#bumper, #rail, .smallPhoto, .cpr, .why img { display: none; }
+#bumper, #rail, .smallPhoto, .cpr, .why img, .spacer { display: none; }
 
 #rail {
 	width: 0;

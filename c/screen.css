@@ -299,7 +299,7 @@ ol li {
 
 /* @group Mobile-Undo */
 
-#bumper, #rail, #printPDF { display: block;}
+#bumper, #rail, #printPDF, .spacer { display: block;}
 .smallPhoto, .cpr, .why img {display: inline;}
 /* @end */
 
