@@ -32,6 +32,12 @@ $desc = "Thanks for your interest in Walkie Doggie &amp; Pet Sitter Company. We 
 		<p>&nbsp;</p>
 		<p>&nbsp;</p>
 		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
+		<p>&nbsp;</p>
 	</div>
 		
 <?php include "../../c/pageend.html" ?>
