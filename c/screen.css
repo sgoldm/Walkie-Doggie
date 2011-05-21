@@ -300,7 +300,7 @@ ol li {
 /* @group Mobile-Undo */
 
 #bumper, #rail, #printPDF { display: block;}
-
+.smallPhoto, .cpr {display: inline;}
 /* @end */
 
 /* @group Layout */

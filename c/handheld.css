@@ -180,7 +180,9 @@ textarea.contenteditable {-webkit-appearance: none;}
 /* Primary Styles for mobile
    Author:
 */
-
+p, ul, table, ol {
+	margin-bottom: 1.2em;
+}
 a {
 	color: #434343;
 	text-decoration: underline;
@@ -192,7 +194,7 @@ a:hover {
 	color: #434343;
 }
 
-#bumper, #rail { display: none; }
+#bumper, #rail, .smallPhoto, .cpr { display: none; }
 
 #rail {
 	width: 0;
