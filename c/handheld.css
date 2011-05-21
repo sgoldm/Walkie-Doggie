@@ -279,12 +279,14 @@ input + label.textarea {margin: 10px 0 0;}
 label.radio { width: 100%; text-align: left; margin: 0;}
 label.radio + label.textarea { margin-top: 0;}
 
+label.radio + input + label.radio {width: auto;} 
+
 input.text:focus, textarea:focus { border-color: #231f20;}
 input.text { width: 150px; height: 17px; border: solid 2px #bbb; padding: 4px; border-radius: 6px; -moz-border-radius: 6px; -webkit-border-radius: 6px;}
 input#zip { width: 100px; }
 select { width: 130px; padding: 2px;}
 
-textarea { border: solid 2px #80cd3e; padding: 4px; border-radius: 6px; -moz-border-radius: 6px; -webkit-border-radius: 6px; margin-bottom: 10px;}
+textarea { border: solid 2px #bbb; padding: 4px; border-radius: 6px; -moz-border-radius: 6px; -webkit-border-radius: 6px; margin-bottom: 10px;}
 
 input.text:focus, textarea:focus { border-color: #444;}
 
