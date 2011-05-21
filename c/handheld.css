@@ -247,9 +247,11 @@ a:hover {
 #mainNav {
 	display: block;
 	width: 100%;
-	padding-bottom: 10px;
+	padding-bottom: 20px;
+	padding-top: 20px;
 	margin-bottom: 10px;
 	border-bottom: 2px dashed #80cd3e;
+	border-top: 2px dashed #80cd3e;
 }
 #mainNav li {
 	display: block;
@@ -268,7 +270,7 @@ a.moreButton {
 	text-indent: 0;
 }
 
-#footer {margin: 10px 5px; border-top: 2px dashed #80cd3e;}
+#footer {margin: 10px 5px; border-top: 2px dashed #80cd3e; padding-top: 20px;}
 
 #footer ul, #footer li {
 	list-style-type: none;
