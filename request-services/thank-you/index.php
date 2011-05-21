@@ -13,7 +13,7 @@ $desc = "Thanks for your interest in Walkie Doggie &amp; Pet Sitter Company. We 
 <?php include "../../c/bodystart.html" ?>	
 	
 	<div id="rail" class="photo">
-		<img src="/images/photos/patty-pip-barnie.jpg" alt="Patty, Pip and Barnie look forward to their walk every day!" width="385" height="333">
+		<img src="/images/photos/patti-walk.jpg" alt="Patti looks forward to her walk every day!" width="385" height="485">
 	</div>
 	
 	<div id="content" class="thankyou">
