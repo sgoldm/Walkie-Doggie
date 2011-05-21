@@ -273,23 +273,21 @@ h2 {font-size: 16px; font-weight: bold; }
 
 label, input.text, select { display:inline-block; margin-bottom: 4px;}
 
-label { width: 162px; text-align: right; margin-right: 8px;}
-label.textarea { width: 100%; text-align: left; margin: 0;}
+label { width: 80px; text-align: right; margin-right: 8px;}
+label.textarea { text-align: left; margin: 0;}
 input + label.textarea { margin: 10px 0 0;}
 label.radio { width: auto; text-align: left; margin: 0;}
 label.radio + label.textarea { margin-top: 0;}
 
 input.text:focus, textarea:focus { border-color: #231f20;}
-input.text { width: 192px; height: 17px; margin-right:102px; border: solid 2px #80cd3e; padding: 4px; border-radius: 6px; -moz-border-radius: 6px; -webkit-border-radius: 6px;}
-input#zip { width: 122px; margin-right:174px;}
-select { width: 130px; margin-right:172px; padding: 2px;}
+input.text { width: 192px; height: 17px; border: solid 2px #80cd3e; padding: 4px; border-radius: 6px; -moz-border-radius: 6px; -webkit-border-radius: 6px;}
+input#zip { width: 122px; }
+select { width: 130px; padding: 2px;}
 
-textarea { width: 362px; border: solid 2px #80cd3e; padding: 4px; border-radius: 6px; -moz-border-radius: 6px; -webkit-border-radius: 6px; margin-bottom: 10px;}
+textarea { border: solid 2px #80cd3e; padding: 4px; border-radius: 6px; -moz-border-radius: 6px; -webkit-border-radius: 6px; margin-bottom: 10px;}
 
 input.text:focus, textarea:focus { border-color: #444;}
 
-#submit { display: block; text-indent: -9999em; overflow: hidden; height: 54px; width: 153px; background: url(/images/submit.gif) no-repeat 0 0; border: none; margin: 20px 0 0 104px;}
-#submit:hover { background-position: 0 -54px;}
 
 #footer {margin: 10px 5px; border-top: 2px dashed #80cd3e; padding-top: 20px;}
 
