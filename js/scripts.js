@@ -8,12 +8,12 @@ $(document).ready(function(){
 		$("body").css("background-position", "-805px 20px");
 	}
 
-	$('#client-quotes').cycle({
-		speed: 500,
-		timeout: 7000,
-		before: onBefore,
-		sync: 0
-	});
+	// $('#client-quotes').cycle({
+	// 	speed: 500,
+	// 	timeout: 7000,
+	// 	before: onBefore,
+	// 	sync: 0
+	// });
 	
 	function onBefore() { 
 		var newHeight = $(this).height();
