@@ -21,7 +21,7 @@ $desc = "Walkie Doggie &amp; Pet Sitter Company is dedicated to providing second
 		
 		<img src="/images/photos/cleo.jpg" alt="Cleo" width="328" height="233">
 		<img src="/images/photos/angel.jpg" alt="Angel" width="328" height="239">
-		<img src="/images/photos/pip.jpg" alt="Pip" width="328" height="255">
+		<img src="/images/photos/barnie.jpg" alt="Barnie" width="328" height="255">
 	</div>
 	
 	<div id="content">
